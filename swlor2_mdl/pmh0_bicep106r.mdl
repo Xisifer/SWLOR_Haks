@@ -1,15 +1,15 @@
 # Exported from NeverBlender 2.8.33 - Thursday, 2022-02-10
 filedependancy ARMORPACK.blend
-newmodel pmh0_bicepr054
-setsupermodel pmh0_bicepr054 null
+newmodel pmh0_bicepr106
+setsupermodel pmh0_bicepr106 null
 classification CHARACTER
 setanimationscale 1.0
-beginmodelgeom pmh0_bicepr054
-node dummy pmh0_bicepr054
+beginmodelgeom pmh0_bicepr106
+node dummy pmh0_bicepr106
   parent null
 endnode
 node trimesh Mesh_0003.rip.001
-  parent pmh0_bicepr054
+  parent pmh0_bicepr106
   position  0.00000  0.00000  0.00000
   orientation  0.00000  1.00000  0.00000  0.00000
   wirecolor 0.80 0.80 0.80
@@ -371,5 +371,5 @@ node trimesh Mesh_0003.rip.001
     50 81 44 1   58 102  54 0
     81 50  4 1  102  58  63 0
 endnode
-endmodelgeom pmh0_bicepr054
-donemodel pmh0_bicepr054
+endmodelgeom pmh0_bicepr106
+donemodel pmh0_bicepr106
