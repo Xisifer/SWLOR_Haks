@@ -1,0 +1,584 @@
+[
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan1_F.jpg",
+    "sha256": "00b732dfb90502b183e2565bbd1aae7a785671b916bf390bea75a6e456f57d16",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungf01_l.dds",
+        "sha256": "9e9d7c258de3e2b506069dc91a658a23f583b79488762a8bd5c007cc6d911ddd"
+      },
+      {
+        "path": "sw_portrait/po_gungf01_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf01_m.dds",
+        "sha256": "a586510456c79b406eb321d0bd48dff22a1b8079b632a43d4ab78a94b82200d6"
+      },
+      {
+        "path": "sw_portrait/po_gungf01_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf01_s.dds",
+        "sha256": "f0bb43f193aaf6a6b8a9a6edeef91bc1ff7676de7ebddcd9e308409f5d9d9cb9"
+      },
+      {
+        "path": "sw_portrait/po_gungf01_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf01_t.dds",
+        "sha256": "c1bf8997d67342320b0d4c74a3aea5315674d64439a144736c639a585f77a0a1"
+      },
+      {
+        "path": "sw_portrait/po_gungf01_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\Gungan1_M.jpg",
+    "sha256": "07964101eebae0521aaca3990be39d709e77ade3fb8bd831e1326c5f5868073b",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungm01_l.dds",
+        "sha256": "92e4a17eb3d1671bba735efb6c117698ce89bc09018a69cfb40fc21570a3de15"
+      },
+      {
+        "path": "sw_portrait/po_gungm01_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm01_m.dds",
+        "sha256": "3732afe43c3414ae0660c30f958c69a2a4f941beb36d35d6132d0693b2822029"
+      },
+      {
+        "path": "sw_portrait/po_gungm01_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm01_s.dds",
+        "sha256": "8a52a0ef954822274e9ab55a68000d40a42f43d3ab836f9bd12484e0b460931d"
+      },
+      {
+        "path": "sw_portrait/po_gungm01_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm01_t.dds",
+        "sha256": "8bf3a29e732e0110ad08ed2d7e2a25e6120416927215c7c0d9120987ca13c68b"
+      },
+      {
+        "path": "sw_portrait/po_gungm01_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan2_F.jpg",
+    "sha256": "b7f0a6f5425b70ea0310abd7bee392a7313d1f7f244441231ddf213f35e24499",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungf02_l.dds",
+        "sha256": "19f48628bbc0f277a62956f0b0718e39f5fa7dae241a6523111434a8b43946fa"
+      },
+      {
+        "path": "sw_portrait/po_gungf02_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf02_m.dds",
+        "sha256": "d7f02575ae8a48712fab2460c79cffb9c9146a4c089f332c72d4c89f9ffa2d23"
+      },
+      {
+        "path": "sw_portrait/po_gungf02_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf02_s.dds",
+        "sha256": "7e2749e527a62e425416039ecf41f058d2098ea8fbe5e6ecc83491717030820b"
+      },
+      {
+        "path": "sw_portrait/po_gungf02_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf02_t.dds",
+        "sha256": "a715de159cb0d6ad9546871634f2c153deb4c200e0aee5a81671a27b56862e01"
+      },
+      {
+        "path": "sw_portrait/po_gungf02_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\Gungan2_M.jpg",
+    "sha256": "1b3b208b8e5365b76cafeae898e0e8961d9ad48deb9db78ae4f74d6e587512f6",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungm02_l.dds",
+        "sha256": "c4d2c5029dbe00eb1ed206edc4286ee440b3064651b729b2e50890fa3b617f34"
+      },
+      {
+        "path": "sw_portrait/po_gungm02_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm02_m.dds",
+        "sha256": "18dc9c9111ce07c58af0d4354a6036e50bef638d7808a07321dba2c916e3fde3"
+      },
+      {
+        "path": "sw_portrait/po_gungm02_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm02_s.dds",
+        "sha256": "957214c010713561301036e791bd86dfb5fa7838eda20ea77a8cac782747be40"
+      },
+      {
+        "path": "sw_portrait/po_gungm02_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm02_t.dds",
+        "sha256": "5249ca50c90466c2a9b9b7c4b831cc363aad800d564db12358a76c073036a663"
+      },
+      {
+        "path": "sw_portrait/po_gungm02_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan3_f.jpg",
+    "sha256": "59b6f89e8985ff53a79e16c892b78a80c3f394c3c4f475ed73678c6567147e80",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungf03_l.dds",
+        "sha256": "4c40623158c4bb814567194dc4b1023251a60ec8cb9ce356c909cd51998b462e"
+      },
+      {
+        "path": "sw_portrait/po_gungf03_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf03_m.dds",
+        "sha256": "de96b6729600e9c61c28d89212add4a2faf8af310d6ada05663e6c35178fbea8"
+      },
+      {
+        "path": "sw_portrait/po_gungf03_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf03_s.dds",
+        "sha256": "d510058d90c2b68aec2e397486762cb815387a5ef057b3b664eb1cedae8cb990"
+      },
+      {
+        "path": "sw_portrait/po_gungf03_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf03_t.dds",
+        "sha256": "f2aca324f146e70e9915cf6f38fa3aae28df0b24be9d759d4eabb02e1331c89d"
+      },
+      {
+        "path": "sw_portrait/po_gungf03_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan3_M.jpeg",
+    "sha256": "b6a941c2a39c131d02711b5f113b4d285880fb52b7cf5d2de774262e7f9581a7",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungm03_l.dds",
+        "sha256": "be670caa066f44e074299017c2b8401f918ec88162dbf13526eb5851aca16e5f"
+      },
+      {
+        "path": "sw_portrait/po_gungm03_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm03_m.dds",
+        "sha256": "01e0c26cb1551f046377b566b7f6eb994a90b3ec4ea3b750d727dedc4369840e"
+      },
+      {
+        "path": "sw_portrait/po_gungm03_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm03_s.dds",
+        "sha256": "55d368117ff285ef38dd2a64b6496e2d024cef2775b7b6fa8c62dcf56b345f9e"
+      },
+      {
+        "path": "sw_portrait/po_gungm03_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm03_t.dds",
+        "sha256": "c827fc48b877eb97464f433545381229d8df5c2dfa53629c33f0ad5d39c2002f"
+      },
+      {
+        "path": "sw_portrait/po_gungm03_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan4_f.jpg",
+    "sha256": "77bec5eca6d42906fc8ba6b3e2bf47967437db96b418d375102cda19eda85c3f",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungf04_l.dds",
+        "sha256": "edb3d51e38dccc435e59f0464c3f09270abcf6f8d2fbbb56bda701caa710c2a9"
+      },
+      {
+        "path": "sw_portrait/po_gungf04_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf04_m.dds",
+        "sha256": "0640a7daba7e34784625fc93a8d3170bf1990548c84e66d34df2388dcd947a9e"
+      },
+      {
+        "path": "sw_portrait/po_gungf04_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf04_s.dds",
+        "sha256": "72a62e7a1bfb79e9b918cd827e3149d37add26103203147fdca59f6e216002b2"
+      },
+      {
+        "path": "sw_portrait/po_gungf04_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf04_t.dds",
+        "sha256": "cd8bb5a8c4a79616fa55a3ad8c13a131ac8cfafa90d9e4b8bf7e083bc696cee2"
+      },
+      {
+        "path": "sw_portrait/po_gungf04_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan4_m.jpg",
+    "sha256": "0f9efe48d4a6360add0a5a8c72792a7cdc8efc58c440095c28a5c240b1f54f13",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungm04_l.dds",
+        "sha256": "58ea51298174f218a73f5a3849eb0930f2b585f0fa5fec34cf25fb218c0d2a26"
+      },
+      {
+        "path": "sw_portrait/po_gungm04_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm04_m.dds",
+        "sha256": "73af5c36cb997f80e9d6e53625f1b662e4f256fc3c2b1de56f4fa18f25d76db7"
+      },
+      {
+        "path": "sw_portrait/po_gungm04_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm04_s.dds",
+        "sha256": "1ec4ed93fe14c47e565b52cec031df3959042d0884286d5dba2036ee204a6b50"
+      },
+      {
+        "path": "sw_portrait/po_gungm04_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm04_t.dds",
+        "sha256": "e466e5f3fe54bc7561c274b5952fb2a5e103de3adb002063229ef9b0ff18d8a8"
+      },
+      {
+        "path": "sw_portrait/po_gungm04_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan5_f.jpg",
+    "sha256": "0165f120754eaec2f0a554f0d52a272b16371052499e6683e154d0fa188628b0",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungf05_l.dds",
+        "sha256": "5eb6b62c6ade57a34075c6a13c0cfcf41753923719328ef8b3f477d8061b2ec3"
+      },
+      {
+        "path": "sw_portrait/po_gungf05_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf05_m.dds",
+        "sha256": "83ddef98a82dcb7b968ae937a5541ad5fbdb29dbabf6afa1c703cb640be99627"
+      },
+      {
+        "path": "sw_portrait/po_gungf05_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf05_s.dds",
+        "sha256": "27de5e6fbeee66107dcf693f8d6a53daa0642aa90c301b13c4034ce3d7f882fd"
+      },
+      {
+        "path": "sw_portrait/po_gungf05_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf05_t.dds",
+        "sha256": "bbec5b1d69ebc03f3c81fa4819e068899e6fc8568a9996ed51d65d39fdd59299"
+      },
+      {
+        "path": "sw_portrait/po_gungf05_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan5_M.jpg",
+    "sha256": "ab5c1711157433796b7799e0aa5160ba2e3d1e7b21e9f8ae456c0455d809713a",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungm05_l.dds",
+        "sha256": "72ef2898d23f4f996a5269e0aaf2b3b443ddbfce5d5d556132b62fe3db839437"
+      },
+      {
+        "path": "sw_portrait/po_gungm05_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm05_m.dds",
+        "sha256": "d7653a02ccc3935b39eea51102b94d168d535a1fdf11ef89d3257b69b20a2cf9"
+      },
+      {
+        "path": "sw_portrait/po_gungm05_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm05_s.dds",
+        "sha256": "76608c143c744bd46a46eec9bf2be4f6419a09b353e791b00de60b4d548e12f2"
+      },
+      {
+        "path": "sw_portrait/po_gungm05_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm05_t.dds",
+        "sha256": "6a5c1ca512217060ebace161705a2d73c9c284545acc91e341d769f47ed2b250"
+      },
+      {
+        "path": "sw_portrait/po_gungm05_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan6_f.jpg",
+    "sha256": "e541e83c258ade9f8a8ff76c3673bdd5b690068ffcdcc19ed158913d2227fbec",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungf06_l.dds",
+        "sha256": "1e90654866016b55f8f1fa7ab2f227436ad677f60f0846223f8c9b50735bb6a9"
+      },
+      {
+        "path": "sw_portrait/po_gungf06_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf06_m.dds",
+        "sha256": "2bfd3e4391dc6ed9ba5094ecf46fedb08b9da90f8c697772d92e85db5d4b4688"
+      },
+      {
+        "path": "sw_portrait/po_gungf06_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf06_s.dds",
+        "sha256": "b4424295e0a4c72b83018ab03d1817186bf931de8fdf1ec229cab0ee8d8822ea"
+      },
+      {
+        "path": "sw_portrait/po_gungf06_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf06_t.dds",
+        "sha256": "0e0999e7527d48041babf7709ead4ceb1eaf4161de82cf3271ac151fd4ad33d9"
+      },
+      {
+        "path": "sw_portrait/po_gungf06_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan6_m.jpg",
+    "sha256": "61a83f9949a14ebb50c5879ac14da4238793b68621d4635af80c8044e65ee653",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungm06_l.dds",
+        "sha256": "b6bd291db628dcf3d7ff25c0484d762a1579c3accb824f8745969f727543526c"
+      },
+      {
+        "path": "sw_portrait/po_gungm06_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm06_m.dds",
+        "sha256": "c9d06e83d099d4f9a981bdbd4f126ce8c2aa647281a1dc57f8eeba2211d77249"
+      },
+      {
+        "path": "sw_portrait/po_gungm06_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm06_s.dds",
+        "sha256": "0b07145a22e7f2a81dcd6022ebb71307b35a2be3da22f4139c922396132fae75"
+      },
+      {
+        "path": "sw_portrait/po_gungm06_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm06_t.dds",
+        "sha256": "efd38b2ba7d768e153affa77381c3625bf5c8d1009ab4b12869110ef18b54ebf"
+      },
+      {
+        "path": "sw_portrait/po_gungm06_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan7_f.jpg",
+    "sha256": "b93e423a6ee83a7cb9e26fdb789cdce03edf9689d3f36f6cbe9490945a79b9f0",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungf07_l.dds",
+        "sha256": "dde74799471ca7fae23f38680342ed130447a8c6996d7b2d064cb0289185bfc1"
+      },
+      {
+        "path": "sw_portrait/po_gungf07_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf07_m.dds",
+        "sha256": "56cc7e69b5914648f703d3d6ca7e95a67f989ed508f1e04654dee70924e22925"
+      },
+      {
+        "path": "sw_portrait/po_gungf07_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf07_s.dds",
+        "sha256": "f64c4a570d388456f154dcfe97af4d082f30edbf8707e77d421b6152ad557800"
+      },
+      {
+        "path": "sw_portrait/po_gungf07_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungf07_t.dds",
+        "sha256": "ec662402bfed494ef0abd9e5cbf49ffd142719bdd387dbdbf458cca4aa81503f"
+      },
+      {
+        "path": "sw_portrait/po_gungf07_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan7_m.jpg",
+    "sha256": "79ead2b80312740152524797438b913dc8217baa5dc80159a58ab20e1f7d1107",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungm07_l.dds",
+        "sha256": "64c97ed7bc92bd1eb44a147576fd282f8ea5fa03aca0d5994afd4583df86c90a"
+      },
+      {
+        "path": "sw_portrait/po_gungm07_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm07_m.dds",
+        "sha256": "59022ae165e708b5755a92842aad8344f7b7bd66df68de3309b3002210f4ad2b"
+      },
+      {
+        "path": "sw_portrait/po_gungm07_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm07_s.dds",
+        "sha256": "c53a51312ed4a3018a713c9fa92810b74bc66e76b9a3eb946e4938a5d61e212b"
+      },
+      {
+        "path": "sw_portrait/po_gungm07_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm07_t.dds",
+        "sha256": "f6b7892632c34c6cd5f243a5c75afe0cf4cfc9f66e2b5183adc7dda045adf6a3"
+      },
+      {
+        "path": "sw_portrait/po_gungm07_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan8_m.jpg",
+    "sha256": "28c43a3424c5dc7724e8411975b514b8921f24bdb69ffdec680206fe7680db60",
+    "resources": [
+      {
+        "path": "sw_portrait/po_gungm08_l.dds",
+        "sha256": "3dc36ef63bfdf4d4ec5d7d5fb5f8d77ea8f81081dc3673f71d0615ecbbd26bb6"
+      },
+      {
+        "path": "sw_portrait/po_gungm08_l.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm08_m.dds",
+        "sha256": "fb62de1c222c3bb239e140a543410fe0c60c030c65135390f468ed3a0c877b24"
+      },
+      {
+        "path": "sw_portrait/po_gungm08_m.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm08_s.dds",
+        "sha256": "76849e8411af7e533dbc9658c75c4d20411dd52c7cb4a8dd10a410cf3d262ee9"
+      },
+      {
+        "path": "sw_portrait/po_gungm08_s.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      },
+      {
+        "path": "sw_portrait/po_gungm08_t.dds",
+        "sha256": "699ee166dc9d36cec4c14b38a0151e755a7b6188caaaefec07d9266594c17ccb"
+      },
+      {
+        "path": "sw_portrait/po_gungm08_t.txi",
+        "sha256": "980a4d359b56df419d9249e19b6c8fcdb689c3185e20a5c442dae0c153279ef0"
+      }
+    ]
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan_icon.jpg",
+    "sha256": "0035184128c866d6f3f9fc3e153f4abb780b60a94aa2d872ca59e956490ce914"
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\gungan_icon_2.avif",
+    "sha256": "6b068c09a2ba964c0aebe6e0fde55b973e3050ee34a8c7bc58624885d785e9a0"
+  },
+  {
+    "source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\GUNGANS\\xis-new-player-heads-ALIENS.blend",
+    "sha256": "ab9db297d391db5c2dc9776867fbf0cba6ce24b90df4e04d455c07999484f07b"
+  }
+]

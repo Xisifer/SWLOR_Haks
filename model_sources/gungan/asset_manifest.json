@@ -1,0 +1,72 @@
+[
+  {
+    "resource": "pme0_head300",
+    "blend_assembly": "helm_304",
+    "texture": "gung_head1",
+    "texture_source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-newheads\\textures\\Char_JarJar_JarJar_C.dds",
+    "texture_source_sha256": "70e8743e7fae960f9a7f75d78fad3edd2b405cddd8cba65a6e25ff4e0afab0a3"
+  },
+  {
+    "resource": "pfe0_head300",
+    "blend_assembly": "helm_304",
+    "texture": "gung_head1",
+    "texture_source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-newheads\\textures\\Char_JarJar_JarJar_C.dds",
+    "texture_source_sha256": "70e8743e7fae960f9a7f75d78fad3edd2b405cddd8cba65a6e25ff4e0afab0a3"
+  },
+  {
+    "resource": "pme0_head301",
+    "blend_assembly": "helm_305",
+    "texture": "gung_head2",
+    "texture_source": "D:\\jedi academy\\GameData\\base\\models\\players\\jarjar\\head.psd",
+    "texture_source_sha256": "ca69ae9c6a4516b25a6329b73ec60ac9ab21d38bbab09994940f49a18f321edf"
+  },
+  {
+    "resource": "pfe0_head301",
+    "blend_assembly": "helm_305",
+    "texture": "gung_head2",
+    "texture_source": "D:\\jedi academy\\GameData\\base\\models\\players\\jarjar\\head.psd",
+    "texture_source_sha256": "ca69ae9c6a4516b25a6329b73ec60ac9ab21d38bbab09994940f49a18f321edf"
+  },
+  {
+    "resource": "pme0_head302",
+    "blend_assembly": "helm_306",
+    "texture": "gung_head3",
+    "texture_source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\RIPPED MODELS\\GalaxyOfHeroes\\Dump_GOH_Padawn_Obi_Update\\Texture2D\\gungan_phalanx_tex.tga",
+    "texture_source_sha256": "f14cac0d2b30a7212f0fba9ac22991ed919ef824dd8da4e71e82120414ef3feb"
+  },
+  {
+    "resource": "pfe0_head302",
+    "blend_assembly": "helm_306",
+    "texture": "gung_head3",
+    "texture_source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\RIPPED MODELS\\GalaxyOfHeroes\\Dump_GOH_Padawn_Obi_Update\\Texture2D\\gungan_phalanx_tex.tga",
+    "texture_source_sha256": "f14cac0d2b30a7212f0fba9ac22991ed919ef824dd8da4e71e82120414ef3feb"
+  },
+  {
+    "resource": "pme0_head303",
+    "blend_assembly": "helm_307",
+    "texture": "gung_head4",
+    "texture_source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-newheads\\textures\\Char_NPCGungan_FEM_C.psd",
+    "texture_source_sha256": "42062d0159c7bd7f813872f438e07697dbc97515279510f8be3cf9e37e30f00d"
+  },
+  {
+    "resource": "pfe0_head303",
+    "blend_assembly": "helm_307",
+    "texture": "gung_head4",
+    "texture_source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-newheads\\textures\\Char_NPCGungan_FEM_C.psd",
+    "texture_source_sha256": "42062d0159c7bd7f813872f438e07697dbc97515279510f8be3cf9e37e30f00d"
+  },
+  {
+    "resource": "pme0_head304",
+    "blend_assembly": "helm_308",
+    "texture": "gung_head5",
+    "texture_source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\RIPPED MODELS\\GalaxyOfHeroes\\Dump_GOH_Padawn_Obi_Update\\Texture2D\\gungan_boomadier_tex.tga",
+    "texture_source_sha256": "f8f826fb49dc5691f9f689cbf321ab763d44f5a66719eb4ca3c9f64a2fa80719"
+  },
+  {
+    "resource": "pfe0_head304",
+    "blend_assembly": "helm_308",
+    "texture": "gung_head5",
+    "texture_source": "C:\\Users\\Owner\\Documents\\Neverwinter Nights\\development-WIPs\\RIPPED MODELS\\GalaxyOfHeroes\\Dump_GOH_Padawn_Obi_Update\\Texture2D\\gungan_boomadier_tex.tga",
+    "texture_source_sha256": "f8f826fb49dc5691f9f689cbf321ab763d44f5a66719eb4ca3c9f64a2fa80719"
+  }
+]

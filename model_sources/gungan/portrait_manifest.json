@@ -1,0 +1,1802 @@
+[
+  {
+    "archive": "27386.zip",
+    "original": "gungan6_m",
+    "resource": "po_gungm06_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "2ee3ff7a6710728a64ddfb5c42ce109b55d4f4d1ca4fd7ed8643bd91752463e7",
+    "conversion": {
+      "file": "po_gungm06_h.tga",
+      "source_sha256": "2ee3ff7a6710728a64ddfb5c42ce109b55d4f4d1ca4fd7ed8643bd91752463e7",
+      "output": "po_gungm06_h.dds",
+      "output_sha256": "0040838d3bed82e35a40af9560d7b7fb92f9bff273fedfdb5220bb9d91de850f",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 254453,
+      "output_bytes": 65664,
+      "source_rgb_grid": "fefefefefefeede4d3ceb594b39375bc987ddacbb1ede7d4f7f3efdbc2aeac876b9b6c4d8b654aa97e5fd6c4a6eae0c7fefdfcefe9e38d705a7a5a429d8363b5ac93dfd3b6efead8e4ddcfcabdb08673626a472cae8e74f4efe3f4f0e3f8f6ecfefefef3f2edeee9e2583d299d8773876346c9b5a1f7f7f3f7f6f0a59d878a77586e614598937a846b548a65417871593f3f3f3f3f3f3f3f3e3c3c3a24221c0f0d070e0c070b0a05000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.7144877115885415,
+    "upright_verified": true
+  },
+  {
+    "archive": "27386.zip",
+    "original": "gungan6_m",
+    "resource": "po_gungm06_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "e8a4449f38348c1a60330bee335e387a9b836135d4b905623df98317fabbc83b",
+    "conversion": {
+      "file": "po_gungm06_l.tga",
+      "source_sha256": "e8a4449f38348c1a60330bee335e387a9b836135d4b905623df98317fabbc83b",
+      "output": "po_gungm06_l.dds",
+      "output_sha256": "7966c1ea9a475a1dab5a1758769e202257047554cb86485accd01f9635f539a8",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 74319,
+      "output_bytes": 16512,
+      "source_rgb_grid": "fdfdf9f1ebd6ddceaed1bb99b6977aab7f66c3a78edfd4bae2cfc1c2997ab28260ae8262875d45a07458bd9475d3bca2d2b59c846148906043855a3a886347ae8a6cae8667d9caaad9cabe8e6b559877605f3d27a28769cfc8aeb7ab90ddd0b08a68513f2c19684b30785638b39b7dd2c8b0cac9b9e8e0cad7cdc2745a435a381d845d41ba987bebe0d1f7f4e9fbfbf53f3f3f3f3f3e15100e1a11091e140b291f133d3c3a3f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.6937357584635415,
+    "upright_verified": true
+  },
+  {
+    "archive": "27386.zip",
+    "original": "gungan6_m",
+    "resource": "po_gungm06_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "0369e9d865aa805170316ee22f62a24832a0f09eb4172d1a554e319451064b75",
+    "conversion": {
+      "file": "po_gungm06_m.tga",
+      "source_sha256": "0369e9d865aa805170316ee22f62a24832a0f09eb4172d1a554e319451064b75",
+      "output": "po_gungm06_m.dds",
+      "output_sha256": "a5fffdbd13e71cf13e9c41fea77c927cb5973981e36a7c57ac3d5e2fe83b6d3e",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 19422,
+      "output_bytes": 4224,
+      "source_rgb_grid": "e0d3b1d8c8a6d4bf9eb49579a87c64ba9b85d0bfa6e7e1cbbe9375b38564b283617a503aa37c61c3997acfac93dacdada37656a478558f6d4f855c45946244a27254c7b092dacbab99684e926246805336926f51cfba9aaa7756d2c2a1ddcfb09f836d5a38276e4d2eb3a188cdc7afb2af97d2c7a9e0d5b7684f336e4c30775a3abba88accbd9eb6bbafddd4bbe6ddc40d07041f160e2c201837302b3f3f3d3f3f3e3b39343a3833000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.550455729166667,
+    "upright_verified": true
+  },
+  {
+    "archive": "27386.zip",
+    "original": "gungan6_m",
+    "resource": "po_gungm06_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "415e73450a1f2fbfdf0cab8c97b6f7f2b3b74ace5774275ad8e42cf29ce44ed1",
+    "conversion": {
+      "file": "po_gungm06_s.tga",
+      "source_sha256": "415e73450a1f2fbfdf0cab8c97b6f7f2b3b74ace5774275ad8e42cf29ce44ed1",
+      "output": "po_gungm06_s.dds",
+      "output_sha256": "0b5e8fffd5632aa6c394a90a06009a32388742787e9f8a3961316b2a10aa716d",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4924,
+      "output_bytes": 1152,
+      "source_rgb_grid": "d7c8a4d4c4a3c1a68aa8836ba37c68cebfa5d5c7aeebe7d4b99272b28363855a41ae8265bd886cc9a285d2baa3d7caa8b98c6aa27a5d754a378d6047b18768bd9679c59e86decfb48e684872533989624a8b5e449e6847b08c6fd5c4a4dacbaa76452d895b3b967356cfbe9eb78b6baf8363d7c7a6dbcdad5b382485603ca08a6fe4dac1c3b699c5b292d8c9a7ddd0b1140d0820180e34312d2f302d252a2623252137352d38352e000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.253743489583333,
+    "upright_verified": true
+  },
+  {
+    "archive": "27386.zip",
+    "original": "gungan6_m",
+    "resource": "po_gungm06_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "e4ba8e6d68b526d77b8d14a326ce4a0b1ee9525185ede76f84a37ce9dcb8b87b",
+    "conversion": {
+      "file": "po_gungm06_t.tga",
+      "source_sha256": "e4ba8e6d68b526d77b8d14a326ce4a0b1ee9525185ede76f84a37ce9dcb8b87b",
+      "output": "po_gungm06_t.dds",
+      "output_sha256": "ddfc079fb781d90157935e0918a182f39b1b53411231d4358c8009d0852cf1b5",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1271,
+      "output_bytes": 384,
+      "source_rgb_grid": "c9b497b4947bac8974b29985d8ccacdcd1b4e7e0cbebe6d37d523b9c674cac6c55b08872c9ae9bbb9d88dfd4b9e3dac19a7356b58f72c29679c18d6fc9a280c9a592dbcbadd8cba97549347d543fa68265bc9a7bc59d7dca9e84e5cfbcdaccad9b6b53926045a96d46ac6f4ca98c76bea081c7b094dacaab7d5b458e6950a26c4c9e694ab19578d9c9a8ded1b2dccdad251e1935302831251c281a122e241c353129353229393730000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.63671875,
+    "upright_verified": true
+  },
+  {
+    "archive": "39f19.zip",
+    "original": "gungan3_f",
+    "resource": "po_gungf03_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "f1187e2ce4ebc226f00cf39c96f123c8ba114f936fa5620821b81f54c198af2d",
+    "conversion": {
+      "file": "po_gungf03_h.tga",
+      "source_sha256": "f1187e2ce4ebc226f00cf39c96f123c8ba114f936fa5620821b81f54c198af2d",
+      "output": "po_gungf03_h.dds",
+      "output_sha256": "695e55dca2a843a7ebc1c877f70845e39d67f807fe3f035eebfbe6c8c43025e9",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 308914,
+      "output_bytes": 65664,
+      "source_rgb_grid": "232a382a2e3b322e39392b392d20282e2b352029371f2431231e272e222c4729397a4a5b272a37332d3b372c3c2828324022386235546a49537f666077455b5b2a441e18221c161f503b4b3a2c3a4d553258403c6b284c51233e723a4b3e30391a131b201a20282725432337792b4b1c1720231d271d18221d1720292530362a357842514d3a471f1a231f1c26221f2909080b08070909080a0c0b0d0a090b07050708060909080a000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.185610453287761,
+    "upright_verified": true
+  },
+  {
+    "archive": "39f19.zip",
+    "original": "gungan3_f",
+    "resource": "po_gungf03_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "f4e3b2fbc6b39fac8b2537765a09c8f5cfa0060c7fae941a0e3cc57f0b546a0b",
+    "conversion": {
+      "file": "po_gungf03_l.tga",
+      "source_sha256": "f4e3b2fbc6b39fac8b2537765a09c8f5cfa0060c7fae941a0e3cc57f0b546a0b",
+      "output": "po_gungf03_l.dds",
+      "output_sha256": "1f48017876efab5d897747b6e6df4bb771c168721549f876a6d49a71c626671e",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 77242,
+      "output_bytes": 16512,
+      "source_rgb_grid": "202a39222b3b26303f3b44553a3e4d3234402d2d38292e3a2427332e2b352d2128301823481a302c151e2d1b212c283127202829222a3722314931408959633a33451f27352c2c3844203661364e4e314e74564a7a63566c505a6344504c3343542e4a6936594939477c4e5a89766862304a8329557d214e473843332a35383c314e65294a3c35862a583b283b3c213506030507060810140b11150d0b080b1f0813220c15060508000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.318806966145833,
+    "upright_verified": true
+  },
+  {
+    "archive": "39f19.zip",
+    "original": "gungan3_f",
+    "resource": "po_gungf03_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "b7039748d196d582a81d4e7723d9994553ef1cf673dc79863ead178366c922a0",
+    "conversion": {
+      "file": "po_gungf03_m.tga",
+      "source_sha256": "b7039748d196d582a81d4e7723d9994553ef1cf673dc79863ead178366c922a0",
+      "output": "po_gungf03_m.dds",
+      "output_sha256": "9f47176da8338edbc89caee81182bc4ada66fa7bbd2a7433de3e4ef9576978a6",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 19430,
+      "output_bytes": 4224,
+      "source_rgb_grid": "36353f3429302a1a1f2b172133172532152528131927111723101624111827131c58203d9a4660732a4f3329322a273033323d422e40422c3f353137785c5f5e3e4f2d324120283756364e4824468250556c5d4a796754927066514b54413e4857365949304b593b4a956c5f7d625b61495171505f8f5062553b4f4d3a496c405d874c61b08e8871625c6a2d4a8a2655160e13100d0f0e0f0b131309101509150d0e1c06101c0610000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.941202799479167,
+    "upright_verified": true
+  },
+  {
+    "archive": "39f19.zip",
+    "original": "gungan3_f",
+    "resource": "po_gungf03_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "b983c89dcc8aecf7e41882087e6d824df27f0d7c2bc847374bf6d73f86d8509d",
+    "conversion": {
+      "file": "po_gungf03_s.tga",
+      "source_sha256": "b983c89dcc8aecf7e41882087e6d824df27f0d7c2bc847374bf6d73f86d8509d",
+      "output": "po_gungf03_s.dds",
+      "output_sha256": "88c9f7a5f71997cf51add770b1fd5aaa4dd672f812925f5f0e0b9d201b72afaf",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4924,
+      "output_bytes": 1152,
+      "source_rgb_grid": "3424272312151e0e132b1520422a3c330d20381a2d2c182024101723101826101a53193a78304e8a2f595c1c3d2a171c37282f2b18223c2a3b552b43975765af6d71833158494353442b45421d354f3c4e31373554504982656d433c4b2b334246224b763e52ac6e6a726153877162876a5895746e49485448264544424c4336294c4c2d5a56386c5d52795053896165160e160e0d112711173421203126261d16170d090a1d1218000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 6.28076171875,
+    "upright_verified": true
+  },
+  {
+    "archive": "39f19.zip",
+    "original": "gungan3_f",
+    "resource": "po_gungf03_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "01fd98ac7f6529025a9b3e4fa8b1b049e01f03fce3a16a85ca09c98d465af75e",
+    "conversion": {
+      "file": "po_gungf03_t.tga",
+      "source_sha256": "01fd98ac7f6529025a9b3e4fa8b1b049e01f03fce3a16a85ca09c98d465af75e",
+      "output": "po_gungf03_t.dds",
+      "output_sha256": "8d1b18f4f26eca231d20bf4421964d8ca820da6cc07ae52f715055e2825c7a36",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1271,
+      "output_bytes": 384,
+      "source_rgb_grid": "1d0d11211015291624291722250d17250d162e1a2a2d1d261f0e15280f1b58324d542a435213345012323f1c322e1b2227101a561a3b6120438a3a5b9e3c628025575b1938291519341c2f532240833d56b05c6ac7777baf526b90376f4f45534d4b5a3c33424e2a3c885e67785e646f425062294156455844324327302e2341323c463e9467706a5c673036442a33422113171a11133224243327243125212e26220d0e12070a0e000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 6.293619791666667,
+    "upright_verified": true
+  },
+  {
+    "archive": "4356f.zip",
+    "original": "gungan4_m",
+    "resource": "po_gungm04_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "5f2b9ecf0690a21a2573b0de3a44cce802548ce0131595544fc1491300bc361f",
+    "conversion": {
+      "file": "po_gungm04_h.tga",
+      "source_sha256": "5f2b9ecf0690a21a2573b0de3a44cce802548ce0131595544fc1491300bc361f",
+      "output": "po_gungm04_h.dds",
+      "output_sha256": "8beabdc738956ea786d16f62529fb2cfca0cfdacc6aa6a4404fc0e78f4c3abe0",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 124931,
+      "output_bytes": 65664,
+      "source_rgb_grid": "fffffffffffffefefe9695864c4e3ae5e6e4fffffffffffffffffff6f6f5827e7b735441665b4a49413aa8a5a2ffffffffffffb1aeab42422f3c3c2b4a4235302923a29f9dffffffffffffd8d6d539312b37302a433b33423c36dfdfdffffffffffffffefefe87837f3e362f49423c74706cffffffffffffffffffffffffcbcbc91f1d1873726f494744fdfdfdffffff3f3f3f3f3f3f3b3c3b3d3d3d30302f30302f3f3f3f3f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 0.9796524047851562,
+    "upright_verified": true
+  },
+  {
+    "archive": "4356f.zip",
+    "original": "gungan4_m",
+    "resource": "po_gungm04_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "c517f5d10ca155dde784267bcc05fbeb60dca29a80aeae31b936d564213d6dcc",
+    "conversion": {
+      "file": "po_gungm04_l.tga",
+      "source_sha256": "c517f5d10ca155dde784267bcc05fbeb60dca29a80aeae31b936d564213d6dcc",
+      "output": "po_gungm04_l.dds",
+      "output_sha256": "f7e7c1ad9870f5ab552646e7e18dc54916404e36a5b3c7ab1a344a7914459582",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 48567,
+      "output_bytes": 16512,
+      "source_rgb_grid": "fffffffffffffafafa9c9b95706e66b8b7b6ffffffffffffffffffffffffddddd77b7856656848737567e5e4e3fefefefcfcfc878380574037744c3a6d614e4b3f35372f298c8885898480565a3b2e2c22515437524c3a463b32322a2567635fe5e4e33d342e2f2a2428231e443c34312a2525201cf3f3f3e3e2e13c35303d352f3c342e453d3538312b645f5bf4f4f43f3f3f191817110e0d0e0d0b0f0d0b0c0b092a2a293f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.7442626953125,
+    "upright_verified": true
+  },
+  {
+    "archive": "4356f.zip",
+    "original": "gungan4_m",
+    "resource": "po_gungm04_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "d3c2788a5747733aa216c35ad3e5cedaf2ec296ed94deac72d3038d91d624768",
+    "conversion": {
+      "file": "po_gungm04_m.tga",
+      "source_sha256": "d3c2788a5747733aa216c35ad3e5cedaf2ec296ed94deac72d3038d91d624768",
+      "output": "po_gungm04_m.dds",
+      "output_sha256": "efe6dec79286e2a214d4c74518c6ffb9d543d30e48b0e584410c149fa68360d9",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 14610,
+      "output_bytes": 4224,
+      "source_rgb_grid": "fffffffffffff6f6f5a9a7a575716c9d9c9afefefeffffffffffffffffffd7d8d16a6a4a5f6441494f39e3e4e2fffffffefefeb5b3b18376688c71547e755d5d54444f473e74706c7e7b783f3b2c3e221a4d3628594e3e4f4238382f292f2823605d4d4e503728261d53573a4b4836443930312924413a35817b77322a243a342e211c184d443a37302a2f28235b58551b1a180a0807100d0c100e0c110f0d0e0c0b0d0b0a141312000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.5790608723958335,
+    "upright_verified": true
+  },
+  {
+    "archive": "4356f.zip",
+    "original": "gungan4_m",
+    "resource": "po_gungm04_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "ace4977536be8924d870de04249e899a7cd0bff84e8c8c70dc0d46a3324da9c7",
+    "conversion": {
+      "file": "po_gungm04_s.tga",
+      "source_sha256": "ace4977536be8924d870de04249e899a7cd0bff84e8c8c70dc0d46a3324da9c7",
+      "output": "po_gungm04_s.dds",
+      "output_sha256": "6fc52fb0520218afd167dd4e3c172f07d3e14f548153fdd3d6283230592ba97b",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4343,
+      "output_bytes": 1152,
+      "source_rgb_grid": "fffffffafafae5e4e468635d514b4559544f9c9b9bffffffffffffd1d3ce40452e4f4b3b42462e3b412a32322bcbcbcbfefefeb2b4a470714d7d7a566e724c5d6442525a3fb7b9b2d2d0cd867f6a8c836288805f7a765b7b755e5652433e372f382e287a4536963e2c7b6f58776a576657475d4f404c413625201b4a20174a261d382f276254444b3e3540352f352c260808060a080709090614140d15140e15120f130f0d120f0e000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.186848958333333,
+    "upright_verified": true
+  },
+  {
+    "archive": "4356f.zip",
+    "original": "gungan4_m",
+    "resource": "po_gungm04_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "4f515d718f11c4e7942f6af3f5df82975c617937014b4f98bb5503dbd6f7a3cb",
+    "conversion": {
+      "file": "po_gungm04_t.tga",
+      "source_sha256": "4f515d718f11c4e7942f6af3f5df82975c617937014b4f98bb5503dbd6f7a3cb",
+      "output": "po_gungm04_t.dds",
+      "output_sha256": "e45700a685ef90077c4d8131cb51ac0ba1a06a3b13b048e7edc9a59f72e89d98",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1230,
+      "output_bytes": 384,
+      "source_rgb_grid": "ffffffffffffdcdbda59544e443e373e393355504cacababffffff777b6e4649383b352d3938293d412d2e2f22343231ffffffa3a7916567438d8a63666d4558603c485234505743b3b3a86e6e50777154756f526b6a4c6d6e4e5e6145575d439893828980668f856189805f7b765a858065726c58514a3e4f3e3491483889402f887d638a7d666c5e4d594a3d5f5142190a072c0e0926100b1613100d0a091d1914221d1715120f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 7.235677083333333,
+    "upright_verified": true
+  },
+  {
+    "archive": "50efd.zip",
+    "original": "gungan7_f",
+    "resource": "po_gungf07_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "6edbb7d29d69d0a69bf51a015d1b36a9429bcb4f3d6405eb996b3d4fdd10a384",
+    "conversion": {
+      "file": "po_gungf07_h.tga",
+      "source_sha256": "6edbb7d29d69d0a69bf51a015d1b36a9429bcb4f3d6405eb996b3d4fdd10a384",
+      "output": "po_gungf07_h.dds",
+      "output_sha256": "b28a1100a04076d8c090ad12fe352215449b1336906db6398fcd2950bd702ced",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 307718,
+      "output_bytes": 65664,
+      "source_rgb_grid": "738654788a567f8f5b83925d80805a9e8372a29b89788956798b5786945f969b6ba8a279846256ab9d959a8f84949f6e7f7656a38d7ab4b295a69a8f97927faaaa9e958173acac7f7f8e5b76744e7d77568a745faba99d919684958f80a4aa79798a57859460838c5c66544d6f6a67948b8458483a8a956372855374875467764a261c153c3128242423443d3a7485541c21141c21141c211412150d0707070e0e0e0d0e0b1c2114000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.787755330403646,
+    "upright_verified": true
+  },
+  {
+    "archive": "50efd.zip",
+    "original": "gungan7_f",
+    "resource": "po_gungf07_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "64261a7a70b583844f74285014e5aee589cdc38eca35a660a8fc70b9812041eb",
+    "conversion": {
+      "file": "po_gungf07_l.tga",
+      "source_sha256": "64261a7a70b583844f74285014e5aee589cdc38eca35a660a8fc70b9812041eb",
+      "output": "po_gungf07_l.dds",
+      "output_sha256": "655cd6cbfe06a7988969cae98f85bdb0a31aff392d56f30a7758334868709098",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 77050,
+      "output_bytes": 16512,
+      "source_rgb_grid": "7a8b5880905b81915c838a5e8d745baa8d85a79d8e7786568d9b6499a46f9ca773856659946d65c8bbb7aca59e849161a69f80baa994c9ae9d8e736689796bb9b7b0695342acb484b3b693adaf8d746b62868871b3b1a5aaa9a0a18a7dada17b665b3f908c688767579b9a8d989f8c8186759c9789a4a87998a470766b508e7975979292eeeae7a5988c5f4b3a959e6d2225181d1e1413101112131323222017120d110f0b1f2115000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.418863932291667,
+    "upright_verified": true
+  },
+  {
+    "archive": "50efd.zip",
+    "original": "gungan7_f",
+    "resource": "po_gungf07_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "a70ab611900bf08013069ca097cf44fbad6e3e069c3ef7de3032d7e48e195cca",
+    "conversion": {
+      "file": "po_gungf07_m.tga",
+      "source_sha256": "a70ab611900bf08013069ca097cf44fbad6e3e069c3ef7de3032d7e48e195cca",
+      "output": "po_gungf07_m.dds",
+      "output_sha256": "33adbf1d36ea9a89c0cf5d252f12c791ea3a563f995053ec68ab23a2ec4e745d",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 19423,
+      "output_bytes": 4224,
+      "source_rgb_grid": "7c8d597f8f5b808c5c87795893776d9e947b7b7c5f778956939f6a959d6d836257976b62d3bcb6d8d1cea4aa907e8f5a9e9a6e9a916f80574f8a6b63cac2c07865618f926f96a26fd8c0bad0b0a78776678f8877babbb16a4f48a19d77aeb6869086744a503da0a38db6b6ab979a8ec0afa7957361abb383a37e63867b6faaab9f8c9680727a66b5b4a88f8a6da4ad7a16140f191914292a2537363420211c19161428281f2b2d20000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 6.224365234375,
+    "upright_verified": true
+  },
+  {
+    "archive": "50efd.zip",
+    "original": "gungan7_f",
+    "resource": "po_gungf07_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "b317bbf77d33adffe0ab4f8fbca8e03b62fe3f1c9b292fb96aa386528372af8b",
+    "conversion": {
+      "file": "po_gungf07_s.tga",
+      "source_sha256": "b317bbf77d33adffe0ab4f8fbca8e03b62fe3f1c9b292fb96aa386528372af8b",
+      "output": "po_gungf07_s.dds",
+      "output_sha256": "b5de20cb8b8293292248ac923bb7858bffb4b0103aefef54e8649c8e3b736bc5",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4924,
+      "output_bytes": 1152,
+      "source_rgb_grid": "7a8b577f8f5a808c5c81755391776c9892757c7a60778955929f69969a6e7e5b50a4766dd0b7b0d2c9c6a3a88f7f8f5a9ca6729a8e71784f46977670c6bebb8b7b779495798a9863d8b4adbc968c7d6759807c6abbbcb2674e4898926eb0b8889b8c86656853bfb4aabeb8b1b9b8b09c8278977e65b0b688815a4c5b5f4bacb2a0919a867a8171cacdc1927f6ca2a8772a1e1935312f242620161a121d1e1a3a373623231b2b2d21000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 7.477701822916667,
+    "upright_verified": true
+  },
+  {
+    "archive": "50efd.zip",
+    "original": "gungan7_f",
+    "resource": "po_gungf07_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "2fd297d1cc082fb759b1bc64446a1f8c8702041cfaa9d5c5bec135c35a00656c",
+    "conversion": {
+      "file": "po_gungf07_t.tga",
+      "source_sha256": "2fd297d1cc082fb759b1bc64446a1f8c8702041cfaa9d5c5bec135c35a00656c",
+      "output": "po_gungf07_t.dds",
+      "output_sha256": "db0dfa848d903df3ef9ee6b4c62f0a5476c3ab90f504900310516d7b93179915",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1271,
+      "output_bytes": 384,
+      "source_rgb_grid": "798a56727652856f687770597886577b825a75705d707d519d6f609d6258a88682bb928bd5b5afa08d847f7864768655b68076c7948bc0a29bcfbdb7c4bab7d7cfcc8f927d80905c8a6058d5b9b1dccdc7ded4d0e7e2e0ebe7e4b3b5a77e8e5a795751cdb8b4b3aba8aca5a2a19794a89691a39b8e888f6b6f544ed1bcb8ccc7c5cdc7c44e3835563b308b996494a06d10120b3735343736353534341a1514180d0b27291d303127000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 8.322916666666666,
+    "upright_verified": true
+  },
+  {
+    "archive": "56bbe.zip",
+    "original": "gungan7_m",
+    "resource": "po_gungm07_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "ac2dbe94cb7aedc5683f600c540af60dee3ce26690157864dbf806ac84724b75",
+    "conversion": {
+      "file": "po_gungm07_h.tga",
+      "source_sha256": "ac2dbe94cb7aedc5683f600c540af60dee3ce26690157864dbf806ac84724b75",
+      "output": "po_gungm07_h.dds",
+      "output_sha256": "e37cec84ac543afaa777fcac28e7cd39f2d36a8c209e1f3a31701e155d07c97b",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 237128,
+      "output_bytes": 65664,
+      "source_rgb_grid": "a08881a8857fb78981b5968ea78a82a68981a78a82a88c84ac857da57c73a08175a58278b0948aa98c82a1857bad9790b781795d5d4d5f644f7b785c575a4ac09a91b5978b98877c957872756a5e4c4f3f60684d605d4cc0988d7c69639480758c888766605a4a473a5a5a4762624a8a7f77998b8690756c8f8f8f5c5c5643443a6b6c604b4b4348484287868680645b2323231718171717141f1f1f1a1a191414111c1c1c211b19000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.010828653971354,
+    "upright_verified": true
+  },
+  {
+    "archive": "56bbe.zip",
+    "original": "gungan7_m",
+    "resource": "po_gungm07_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "cd4b05b22916c9d2e17e586415df71cca592d9edf1e5365a7a18123c479fa7af",
+    "conversion": {
+      "file": "po_gungm07_l.tga",
+      "source_sha256": "cd4b05b22916c9d2e17e586415df71cca592d9edf1e5365a7a18123c479fa7af",
+      "output": "po_gungm07_l.dds",
+      "output_sha256": "1b1a17a8623c37c75656fbd490238e0add3a4b83f80f094a3a4db74d7e8c3045",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 67993,
+      "output_bytes": 16512,
+      "source_rgb_grid": "9f827aa78b83ae867fb37e77c5958eb2968ea78a82a68981ac9088ae817ba57970a4847aac8b7fb28a82ac9087a78b81a98b8290685e685b525a5d4ba89081706650746d61b09388cb8f88cd958d6f6c58525c47626b4f686e4c525a47b98e849a6d698978727e726846453853584461694f565645b18d80958f8d87828069635e3b362f4d4b3d5453436361497b70652323232323231b1b18171712191a141a1b141a1b14171612000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.6138102213541665,
+    "upright_verified": true
+  },
+  {
+    "archive": "56bbe.zip",
+    "original": "gungan7_m",
+    "resource": "po_gungm07_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "80e2a845b43ef2b60f526747f159da50cde159c08771fbccefaaa40f0a2f06b1",
+    "conversion": {
+      "file": "po_gungm07_m.tga",
+      "source_sha256": "80e2a845b43ef2b60f526747f159da50cde159c08771fbccefaaa40f0a2f06b1",
+      "output": "po_gungm07_m.dds",
+      "output_sha256": "785e0d9beba80e870771c26473687557091b7eabe85859158746aa3475e72156",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 18897,
+      "output_bytes": 4224,
+      "source_rgb_grid": "a1847ca88b83b18f88a87973b9827bbd9289af938ba88b83ae9289bb8e87aa756ea57970bf968bc3998fc6a49aac9088ac8a83a16c67a47b71988077a28074a68579946962b3968b956e6182685c60544c4f54445f614dcbab9c6e6652726958d28883c59086606651505946545d4863684d6f714f697154d39d96b9a0956c6453535c454e564259624a6166435a644c1d171636302e2d292615141010100d181a14171a13161813000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.4414876302083335,
+    "upright_verified": true
+  },
+  {
+    "archive": "56bbe.zip",
+    "original": "gungan7_m",
+    "resource": "po_gungm07_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "d69e72671d6c827c64d1ce5de744514cec15f9619d63f7fb65c75dab686b6908",
+    "conversion": {
+      "file": "po_gungm07_s.tga",
+      "source_sha256": "d69e72671d6c827c64d1ce5de744514cec15f9619d63f7fb65c75dab686b6908",
+      "output": "po_gungm07_s.dds",
+      "output_sha256": "7986431a598cd51b4872b9b55900a25be46dd9ddcccf3fb677b806a9647a8733",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4880,
+      "output_bytes": 1152,
+      "source_rgb_grid": "ab9088b2918aa2776eba8b85b2887fb1958daa8d85a88b83b37c77a06862be7f79d0958dd8a199d5b3a9b69c93a88c83a6766f9e7c71a9877ca8867aac8a7eb3897fb7938cac9188a27970a7897f8d776ca68376b28f827b6258a5736cb89e91745f57645f504a533e6c6554d8b5a6867366756a5473655c4d564440453b474f405b684f6d6a577b735c7b7f5c6c6f531618121619131316111316111c1d151e1c111a1c15171a14000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.9601236979166665,
+    "upright_verified": true
+  },
+  {
+    "archive": "56bbe.zip",
+    "original": "gungan7_m",
+    "resource": "po_gungm07_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "ebe15bda33057ffbc11d1b1eec018bf076d5cf8d790fd7248d045dd59607761b",
+    "conversion": {
+      "file": "po_gungm07_t.tga",
+      "source_sha256": "ebe15bda33057ffbc11d1b1eec018bf076d5cf8d790fd7248d045dd59607761b",
+      "output": "po_gungm07_t.dds",
+      "output_sha256": "6ebc4090998455b005e6fe4bbc345de01edd77dc0ae0c26f85618cd1b8c0044e",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1271,
+      "output_bytes": 384,
+      "source_rgb_grid": "ac9289ae8f88ab8c85b497909d786dad9289ab8e86a98c84af7b769b5e59b26d65c17873d59992c4a59db49991ab8f879a6c64b57671d09c92d6a49bd3a097e3b2aad4b7adb59c93a37e739a7b71b08e82a9867aa58479b19084be8f86ba98919e7e749f867fa48074aa8679ab877ba28176a26d67b48781a5877d7c76687d695ca68477b592848872666155479a655f1e1b1711130e11120e1f1a17372e2a3128250e0e0b1d1814000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.259765625,
+    "upright_verified": true
+  },
+  {
+    "archive": "8a45d.zip",
+    "original": "gungan2_m",
+    "resource": "po_gungm02_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "b14c110c333e76e5643ab0729c458bc581c43631bdfcb05ab6df9131f5088a78",
+    "conversion": {
+      "file": "po_gungm02_h.tga",
+      "source_sha256": "b14c110c333e76e5643ab0729c458bc581c43631bdfcb05ab6df9131f5088a78",
+      "output": "po_gungm02_h.dds",
+      "output_sha256": "df9eba7aef631c363663c31855cbb0596288628b7790bdca9a6822382e0ab27f",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 150696,
+      "output_bytes": 65664,
+      "source_rgb_grid": "fefefefefefef2f2f19fa097b9b9b5fdfdfdfefefefefefefefefeffffffcdccc96c6c5c655e4eb3b1aaf8f8f7fefefefefefec1c1bf6a6860504b3b5e5b52918f8a76756ffefefefefefea7a8a4333331bbbbb96868677a7a77cacbc6fefefefefefe9d9d9d646563fefefefefefe5e5f5dc3c3c2fefefed4d4d4353432717171fefefeffffff8f8f8e393834e8e7e53333331815102c2b2a3f3f3f3f3f3f3b3b3b1a1916292927000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.9673995971679688,
+    "upright_verified": true
+  },
+  {
+    "archive": "8a45d.zip",
+    "original": "gungan2_m",
+    "resource": "po_gungm02_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "be6b0d503c05d45f76905026feffb18bab7bb3f9c7bc926c3700ddd51f035d85",
+    "conversion": {
+      "file": "po_gungm02_l.tga",
+      "source_sha256": "be6b0d503c05d45f76905026feffb18bab7bb3f9c7bc926c3700ddd51f035d85",
+      "output": "po_gungm02_l.dds",
+      "output_sha256": "bd083865e7f1f67c8c2f916877bf31d281cc09385de3d716f9d3bcd519f77949",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 50941,
+      "output_bytes": 16512,
+      "source_rgb_grid": "ffffffffffffdbdbd9a2a49ea8a8a2fafafafffffffffffffefefefefefee6e5e39c9d90939181837d73e7e6e5fefefefefefefefefe7f7e765253444f4635747267adaba2dcdbd8efefef93938d6461565a5340474136908d848b8a8432312b93928e4a49472828256d6b653f3f3d3f3e3abbbcb88f8e84e5e5e35e605c5c5c5bfefefeececec7070704d4e4be1e1df3f3f3f0d0e0d2323223f3f3f3f3f3f3f3f3f0f0f0f303030000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.1666259765625,
+    "upright_verified": true
+  },
+  {
+    "archive": "8a45d.zip",
+    "original": "gungan2_m",
+    "resource": "po_gungm02_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "dd9a77fe0387ee7206cd6ceb36cb5496b441ac606efdd12ba24f206d1e3e9a3c",
+    "conversion": {
+      "file": "po_gungm02_m.tga",
+      "source_sha256": "dd9a77fe0387ee7206cd6ceb36cb5496b441ac606efdd12ba24f206d1e3e9a3c",
+      "output": "po_gungm02_m.dds",
+      "output_sha256": "54c308178eee1ae56115e8d663301f031f085dc0783a10649034663678ee69a6",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 15065,
+      "output_bytes": 4224,
+      "source_rgb_grid": "fffffffefefeb6b5b0a0a39f918f87f1f1f0fffffffffffffffffffefefec9c9c5b9bbb297998e72716bd2d1d0fffffffffffffdfdfdc7c6c279796bc3c7b277705e60584b9c9992fefefedad9d64a46385e6152625c48584d39727162939084fefefebdbdb83b3d363e3c32443c2d3a38327e7b758a888077776e76746a554f3f6d674d53493856504498968c85827a090908100f0c11100d1b18120e0d0b0d0c0a21201c1e1d1c000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.204264322916667,
+    "upright_verified": true
+  },
+  {
+    "archive": "8a45d.zip",
+    "original": "gungan2_m",
+    "resource": "po_gungm02_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "761a377d76b302ec0e9dc40c2f7e66da03991a0231d643c4750acefb1620ce3f",
+    "conversion": {
+      "file": "po_gungm02_s.tga",
+      "source_sha256": "761a377d76b302ec0e9dc40c2f7e66da03991a0231d643c4750acefb1620ce3f",
+      "output": "po_gungm02_s.dds",
+      "output_sha256": "d21f7d63a3beaf33ae0326944372f7e7323a974eeee2f95e47dccc42c71f6957",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4598,
+      "output_bytes": 1152,
+      "source_rgb_grid": "c3c3c0b2b1adcbcccacbccca8f8c83b1b1a9fefefefffffff3f3f27c7c71696f65575a517c7a727a7a75c9c9c7fefefdfcfcfcabaca6c9cac2bfc1b7a1a3988283796968639c9a96f3f3f2aeafa9a0a198a1a397babdaca6a89b56554d6d6962fefefeadaca8696759808273c9ceb8babcaa8279635e523e514c44564d396d6d5a878b7c91907b665b46594d38685e4714130e17151010100c16171317161113100c17140f201f19000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.6708984375,
+    "upright_verified": true
+  },
+  {
+    "archive": "8a45d.zip",
+    "original": "gungan2_m",
+    "resource": "po_gungm02_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "7dd4215d925be04e9b45858646c7f6b140577cf7383fd63ed1a9ccbab435dd34",
+    "conversion": {
+      "file": "po_gungm02_t.tga",
+      "source_sha256": "7dd4215d925be04e9b45858646c7f6b140577cf7383fd63ed1a9ccbab435dd34",
+      "output": "po_gungm02_t.dds",
+      "output_sha256": "6c4f0148fe78825251d02105e10fe4cbb8066360df7d5df282d695cc9cad38ad",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1205,
+      "output_bytes": 384,
+      "source_rgb_grid": "fafafacbcbcbfdfdfdfffffffffffff5f5f4a8a8a1d8d9d6dededd6d6a5b959289757973777c7586867e696555bfc0b9ffffffcacac963655c747a70585b5366655d8280795b5c57ffffffbebebcc1c2bac1c2bac4c6bca0a298989b8f72736afdfdfcb3b4afc6c7bfcacbc2bfc1b6b6b8adadafa2a0a095fffffefcfcfb75756f70716a696b61b7bba6cbcfbaacaea13f3f3f3f3f3f1e1e1c1919171415122e302a3536312f302c000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.944661458333333,
+    "upright_verified": true
+  },
+  {
+    "archive": "947cd.zip",
+    "original": "gungan3_m",
+    "resource": "po_gungm03_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "0813b512db0def3bc281b33955a55da3fbc7d051428d8e394b22fcfc60af7642",
+    "conversion": {
+      "file": "po_gungm03_h.tga",
+      "source_sha256": "0813b512db0def3bc281b33955a55da3fbc7d051428d8e394b22fcfc60af7642",
+      "output": "po_gungm03_h.dds",
+      "output_sha256": "1edb857ec05be9576e232eeb10c5338a33758329f9c216b1b29577cd62ef1300",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 82162,
+      "output_bytes": 65664,
+      "source_rgb_grid": "fffffffffffffffffff0f0f0cccdd1fefefefffffffffffffffffffffffffefefeb8a28fae9581fefefeffffffffffffffffffffffffd9d7d8b1adb0b0acaec2bebefffffffffffffffffffffffff2eeeca79d98a59b97ece8e6fffffffffffffffffffffffff9f9fa7a7c8085888cdbdcddffffffffffffffffffffffffcecdcd808185d0d1d2949496ffffffffffff3f3f3f3f3f3f3634333634333c3b3a2e2b293f3f3f3f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 0.7889862060546875,
+    "upright_verified": true
+  },
+  {
+    "archive": "947cd.zip",
+    "original": "gungan3_m",
+    "resource": "po_gungm03_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "467ed96c99e19e012192f559fcb2a7c469fc00895a63ab33708f2a28cbae5ae1",
+    "conversion": {
+      "file": "po_gungm03_l.tga",
+      "source_sha256": "467ed96c99e19e012192f559fcb2a7c469fc00895a63ab33708f2a28cbae5ae1",
+      "output": "po_gungm03_l.dds",
+      "output_sha256": "c73a3c1be8163b1a6632da448ea2eb78bc66abbc31ea0922093774f0b19fdba2",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 33815,
+      "output_bytes": 16512,
+      "source_rgb_grid": "fffffffffffffffffff0f0f1c2c4cadfe0e3ffffffffffffffffffffffffffffffc9bbafad9a8bfbfafaffffffffffffffffffffffffe1d7cf9d81689b7d63d4c6bbfffffffffffffffffffcfcfca6a6abb5b7c0b2b0b89999a0e0e1e3ffffffffffffd7d3d1b8a397ad9684b39d8ebdaa9cb6aaa5ffffffffffffffffffc0c2c8bbb9bdafa8a7b5b8bfffffffffffff3f3f3f3f3f3f23242516181a1c1c1f1d1d1f3f3f3f3f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.491729736328125,
+    "upright_verified": true
+  },
+  {
+    "archive": "947cd.zip",
+    "original": "gungan3_m",
+    "resource": "po_gungm03_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "849cd0dc6d82a7bee6c3b0ed2a0bc3701dcc4773f7b84d961474db114362f8cf",
+    "conversion": {
+      "file": "po_gungm03_m.tga",
+      "source_sha256": "849cd0dc6d82a7bee6c3b0ed2a0bc3701dcc4773f7b84d961474db114362f8cf",
+      "output": "po_gungm03_m.dds",
+      "output_sha256": "e3f62883aba24b87a27a6438e8a1cf657555be79d3f6f639a8b902d0e2a29291",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 12667,
+      "output_bytes": 4224,
+      "source_rgb_grid": "fffffffffffffefefebeb3abada39ef0efeeffffffffffffffffffffffffcfc1b69f7a56a9845dc0afa1fefefefffffffffffff4f2f2a18873998f8b8c7774a79387eeeeeffffffffffffeafb0b6b1b0b6c1c1c6bab9bfafafb48e9098fafafadfdcdc9f8e85b5a69db0a095b1a39bb7a89ea99283bbb5b4f8f6f5e7e1dda99c9ab99f8ab09580aaa4a5e5e0ddfaf9f83f3f3f373838292a2c3232342f2f302b2b2d3637383f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.8482259114583335,
+    "upright_verified": true
+  },
+  {
+    "archive": "947cd.zip",
+    "original": "gungan3_m",
+    "resource": "po_gungm03_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "d10b39125d1a5fe578b55780b42851c347bdb2ce8ad215d58e47b1f0815fbd97",
+    "conversion": {
+      "file": "po_gungm03_s.tga",
+      "source_sha256": "d10b39125d1a5fe578b55780b42851c347bdb2ce8ad215d58e47b1f0815fbd97",
+      "output": "po_gungm03_s.dds",
+      "output_sha256": "919ce25c21982c39145071e72303ad33027d02d97db1b29bee46d751e02f0740",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4333,
+      "output_bytes": 1152,
+      "source_rgb_grid": "ffffffffffffd9d8d8a5876cad9e97ab9c90fffffeffffffffffffebe8e49c7b5ca87b4db28857946f52cfc0b4fefefef8f5f4a3856c9e8168a58a6fa68b6e997a5fbeab9bfbfbfad8cdc69f846c958987918a89816c738c7874998070e4e4e68f8f97bbbac0bfbfc5cac8cbc5c4c7b4b2b6b6b5bb7d7d8595969da4a3a9b2b3babebdc3bbbbc1abadb6a6a7ad95969d2c2d2e2b2b2d2b2a2c2e2e2f2d2d2e2b2b2d2a2b2c3a3a3a000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.910807291666667,
+    "upright_verified": true
+  },
+  {
+    "archive": "947cd.zip",
+    "original": "gungan3_m",
+    "resource": "po_gungm03_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "b062cecbd7bd7189ddcf551de28ce0b462920a080b9b8e68462ef28fa2b1eded",
+    "conversion": {
+      "file": "po_gungm03_t.tga",
+      "source_sha256": "b062cecbd7bd7189ddcf551de28ce0b462920a080b9b8e68462ef28fa2b1eded",
+      "output": "po_gungm03_t.dds",
+      "output_sha256": "b0e72b5fd36df673f88d959cee992e5ff1e32f523ba3a7f77e0676dec0e38eb0",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1236,
+      "output_bytes": 384,
+      "source_rgb_grid": "fdfdfdaeabacb09b89b3adadacabad9e9590fafaf9ffffffe7e4e09f8572a4784cab8363a18067907259fafaf9ffffff9a7858956c44af804fb88b56ab8354986e4a9e8470e6e0da8e6d51a28466a2825fa98762af927397785b9f826dc5b4a49e8065b7a18ba3886ca78d71997a60987a61886446dacfc79e8471726f7baa9883a6907b725a69876d629a765aa98b782d2c2e171f2e141b2826191d1415262626291e1e2219191c000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 6.630859375,
+    "upright_verified": true
+  },
+  {
+    "archive": "9a7be.zip",
+    "original": "gungan1_m",
+    "resource": "po_gungm01_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "5a64b626f0788ebffa67f4402adba181b4ce7426ce505be95803894001efb8c0",
+    "conversion": {
+      "file": "po_gungm01_h.tga",
+      "source_sha256": "5a64b626f0788ebffa67f4402adba181b4ce7426ce505be95803894001efb8c0",
+      "output": "po_gungm01_h.dds",
+      "output_sha256": "06f64b3b3299987f29852a97dbf2e5b2e0d5c9cb980f3fd26b3d653fbdb34626",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 120020,
+      "output_bytes": 65664,
+      "source_rgb_grid": "fffffffffffffcfcfba8b598808e72eef0edffffffffffffffffffffffffe9e7e354544f717268868581ffffffffffffffffffffffffd3d5cd6068556164556b6d60fefefeffffffffffffffffffc9caca61625e817e777b876effffffffffffffffffffffff7b80817b766f99948c3a3f40fdfdfdffffffffffffffffff93959599928a918c843a3c3cf7f7f7ffffff3f3f3f3f3f3f3f3f3f2727272828283333333f3f3f3f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.3626022338867188,
+    "upright_verified": true
+  },
+  {
+    "archive": "9a7be.zip",
+    "original": "gungan1_m",
+    "resource": "po_gungm01_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "92836968318ceab6ce9d0861f8507f2c281ae31ceaf7020a0a0585fe5f9fadbb",
+    "conversion": {
+      "file": "po_gungm01_l.tga",
+      "source_sha256": "92836968318ceab6ce9d0861f8507f2c281ae31ceaf7020a0a0585fe5f9fadbb",
+      "output": "po_gungm01_l.dds",
+      "output_sha256": "5505c90e3640529ef644a9ef49f33999d63b63d4c2ec0b4dd5d88714d05b30a7",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 43547,
+      "output_bytes": 16512,
+      "source_rgb_grid": "fffffffefefed2dcc48fa578899c79dfe2ddffffffffffffffffffffffffcdcdc9707465696f5b676e61f3f3f2ffffffffffffeceae652504b6a67627c7b7531302eb8b6b0fffffffefefea9ac9d708062586547545e45232323a8a59cfffffffffffffcfcfc5f626286807889847b40453a919b80fefefeffffffdbdcdc3a44478d877e8f8a814a573eadb7a4ffffff3f3f3f3333330e0e0d2725222624220c0d0a2727263f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.36993408203125,
+    "upright_verified": true
+  },
+  {
+    "archive": "9a7be.zip",
+    "original": "gungan1_m",
+    "resource": "po_gungm01_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "87451db517b96c1f9b14222dd582889795fabc8da4efc968f5f10505c23c49e9",
+    "conversion": {
+      "file": "po_gungm01_m.tga",
+      "source_sha256": "87451db517b96c1f9b14222dd582889795fabc8da4efc968f5f10505c23c49e9",
+      "output": "po_gungm01_m.dds",
+      "output_sha256": "680d55ea9849c16fa3b3f6b8b818fec1631f617d3dacd1e20e5cd683add23fb6",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 14740,
+      "output_bytes": 4224,
+      "source_rgb_grid": "fffffffffefee0e9d58ea47484996d98a790ebeceafffffffffffff1f2eec7d0b67483636a7955485a3a5d6c51fdfdfdfffffff8f7f697969365645da5a6937e7f7134372fa4a39efcfcfcc6c2ba3b3a37343432c2bcb063615b2f2f2d656159d6d2c98997704f643c4a5c397f94634d5e420f101379756de8e7e5aaaba77275712e312e8882794c4c481c1e1f8b887d3f3f3f3f3f3f1616151817152d2b28201f1d0e0d0d13160e000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.7806396484375,
+    "upright_verified": true
+  },
+  {
+    "archive": "9a7be.zip",
+    "original": "gungan1_m",
+    "resource": "po_gungm01_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "cc8b5e192237e5b6abc12aa083f84af799d4971ff6dd6849acb6afb7ce948248",
+    "conversion": {
+      "file": "po_gungm01_s.tga",
+      "source_sha256": "cc8b5e192237e5b6abc12aa083f84af799d4971ff6dd6849acb6afb7ce948248",
+      "output": "po_gungm01_s.dds",
+      "output_sha256": "d7a4de34fe52d2b44cac80d48cd6fc333b6377a7c458b12685bae6df26d31ce1",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4108,
+      "output_bytes": 1152,
+      "source_rgb_grid": "fffffffffffffefefea2ae90b9c4b3989f86c4cac1fefffffafbf8d5e0c196b4707fa0597697546b8d4c5a79445d6e53e8ebe5c4cab3abb69c6a785b5460446c7b5750643f313f2affffffffffffeae9e961675c575e4b989e7f606a51394032f4f4f28f8d863f3e39474540d0cbbf9a9b8bb2afa355534fd4d0c865625c3332302d2c2bb9b4a9cdc8bc97938a37363333312e1515130a0a0a0808081f1e1c2e2d2a232220090909000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.125651041666667,
+    "upright_verified": true
+  },
+  {
+    "archive": "9a7be.zip",
+    "original": "gungan1_m",
+    "resource": "po_gungm01_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "0e7c32980692f53c2b53b36b0af5026a404bfeb475bd5e0774ccc659e8f45124",
+    "conversion": {
+      "file": "po_gungm01_t.tga",
+      "source_sha256": "0e7c32980692f53c2b53b36b0af5026a404bfeb475bd5e0774ccc659e8f45124",
+      "output": "po_gungm01_t.dds",
+      "output_sha256": "c631a277ec8bfd853b4b276b2aa93749beaf418902cc2f3ebea0326d5df72fd6",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1045,
+      "output_bytes": 384,
+      "source_rgb_grid": "ffffffffffffffffffe2e5ded0d5cefefefec3cabcf0f2effffffffefefedce4d19fb38269844a759060607441657a5ae0e4d8b6c69493b1677fa1597f9e5a7695557193506a8c4ef7f8f7d5d7cec6cbbf9aa09345503b565e496a755a49583dfffffffffffffcfcfcb0b2ae3841316e745d9ba182677157f7f7f6acaaa348474343413d7e7b72bebcaf868976a6a59739393723221f100f0e11110f22211f363532302f2d302e2b000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.444010416666667,
+    "upright_verified": true
+  },
+  {
+    "archive": "a3a3e.zip",
+    "original": "gungan6_f",
+    "resource": "po_gungf06_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "097310a911da94e5190dff701c37cbce702995587c80a88592b8c7056a14d6b7",
+    "conversion": {
+      "file": "po_gungf06_h.tga",
+      "source_sha256": "097310a911da94e5190dff701c37cbce702995587c80a88592b8c7056a14d6b7",
+      "output": "po_gungf06_h.dds",
+      "output_sha256": "a511834908876b5cd70ccedf84a3389278df5824a6290ba4ec32ad967be8a204",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 289558,
+      "output_bytes": 65664,
+      "source_rgb_grid": "1b100b2a172138192f3e183448204331182a32231c4e3828190e0a190f0a462437411b35341c2e37252d31221b5d44314f443452473b6950554b293c6455531e14183f342c4d3f3341362a483d3442383140413e4d595b0d0b10271d18563c2d23221f382b331f171b352c34362a303f3139604853412e355a444f41343f27202a522c4c45294228272b2f2b2b715261130a100605050c0a0d23121f20101d0d080e0304041a1416000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.830963134765625,
+    "upright_verified": true
+  },
+  {
+    "archive": "a3a3e.zip",
+    "original": "gungan6_f",
+    "resource": "po_gungf06_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "8bf35b8d5b907d357a9aa644196691b9e90b4fdcb282c9045e502e7c18fb8666",
+    "conversion": {
+      "file": "po_gungf06_l.tga",
+      "source_sha256": "8bf35b8d5b907d357a9aa644196691b9e90b4fdcb282c9045e502e7c18fb8666",
+      "output": "po_gungf06_l.dds",
+      "output_sha256": "c4d4653cfe596c7c41c8d5bd338453a93dc0baae77ad762351feaf3c6392f4e3",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 75971,
+      "output_bytes": 16512,
+      "source_rgb_grid": "1b100b28161e3a1a32451b3a461e413519302d1e1a513a2b190f0a190f093f212f451c38311b2b3926302a1c17624835534836574c3e6d5759522e426c5b5a180f144338315243373f34294439313d332c393935515e5f0e0e121f16124c3426201f1d3a2c351e171a352b34342a2f40313960485348323c57444c473643252029522c4c4a2b452a242b232423775866130b1006050609080a22131f21101e10090f0203041a1416000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.551300048828125,
+    "upright_verified": true
+  },
+  {
+    "archive": "a3a3e.zip",
+    "original": "gungan6_f",
+    "resource": "po_gungf06_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "f5e42796fa4367066062f48e91f557eaa9b071518961ec63fc1a483aef0bb463",
+    "conversion": {
+      "file": "po_gungf06_m.tga",
+      "source_sha256": "f5e42796fa4367066062f48e91f557eaa9b071518961ec63fc1a483aef0bb463",
+      "output": "po_gungf06_m.dds",
+      "output_sha256": "199b67cacf4b61ad453dbdb66532d3362c84990618e26cec977488d388ffd447",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 19168,
+      "output_bytes": 4224,
+      "source_rgb_grid": "1f101429152920101536172e200c1c4a254b3219322a1c1a1a0e0b40203360285263254f36172e5e2651391932321d25180e08180f0a4b2b3d4a1e3c2b14252d1e283d2e342a1c1c2e271e3b332c573d483c1a302d1d26584d4a22131b382d2a9a89739e8f8297807b79525f9b837e6f5d5b0c060a2b2220180f09170f0a170e0919130f46666b324b4e1114190e080b0808070707060707060a080a120e100d090b060306020102000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.1903483072916665,
+    "upright_verified": true
+  },
+  {
+    "archive": "a3a3e.zip",
+    "original": "gungan6_f",
+    "resource": "po_gungf06_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "b865054d5229325fc8b820fac6a70f19e54a376abf3793c067055237d19fa9d3",
+    "conversion": {
+      "file": "po_gungf06_s.tga",
+      "source_sha256": "b865054d5229325fc8b820fac6a70f19e54a376abf3793c067055237d19fa9d3",
+      "output": "po_gungf06_s.dds",
+      "output_sha256": "8bd5cc5a3f721aea71540d8239f346e965a449a2a30f5493ae6a6136918ead4d",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4920,
+      "output_bytes": 1152,
+      "source_rgb_grid": "211116220f1c1e10132c13251e0b184424462d172c291c182113154b25435e275062254f32162b6b2b5c381931321b24180f09180f0a5c314d471d392c15272d1c283c2c332b1e1e27201a2b241f472c3b2f14272a1a244b41402b18212d2220948471a7978aad8b8e815567a38b866b5a570c060a3b312e291f182118121b120b18120f445a5d303d3f0f101410090c0807050807060807060a0a0a1b2325121a1c040506030102000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.342447916666667,
+    "upright_verified": true
+  },
+  {
+    "archive": "a3a3e.zip",
+    "original": "gungan6_f",
+    "resource": "po_gungf06_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "ddf577168dff508bceaa48802a00dc2a3e225fe4551e9ee1e07900342e957374",
+    "conversion": {
+      "file": "po_gungf06_t.tga",
+      "source_sha256": "ddf577168dff508bceaa48802a00dc2a3e225fe4551e9ee1e07900342e957374",
+      "output": "po_gungf06_t.dds",
+      "output_sha256": "a3b0ff4a7df67b0c3e2df604168eb46ff160b6367638ce361c8a553438e50efc",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1271,
+      "output_bytes": 384,
+      "source_rgb_grid": "2010121e0d13180d0a24111d1c0a182810223a203e281526321e2e592958451d3e6f2a5b481d3c2e1229873d7a33172d190f0a180e096c345b61274e39182f2e182a431f3a3b27331a100a180e093c242d4d203f281121281825362c2e3a252f413930504840694d594e233e2815225c4e4e493f3c190d14a69687ac9d90a38e878c63707f6866c4a7a0382c2e0b060a0c09080806040705030503020402011f1a1a080607030102000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.09375,
+    "upright_verified": true
+  },
+  {
+    "archive": "a79de.zip",
+    "original": "gungan2_f",
+    "resource": "po_gungf02_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "c0c6d86b72da8182dea84a7db920e77bac8016d74618f307f85e72746cabe6d1",
+    "conversion": {
+      "file": "po_gungf02_h.tga",
+      "source_sha256": "c0c6d86b72da8182dea84a7db920e77bac8016d74618f307f85e72746cabe6d1",
+      "output": "po_gungf02_h.dds",
+      "output_sha256": "cc14297e1675ea12dd2889d23bca7a1264dd54082e8248d2fe064e4a3dfc3362",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 130571,
+      "output_bytes": 65664,
+      "source_rgb_grid": "ffffffffffffffffffffffffeeeaf36f5aa77f737eb4afb3fffffffffffff3eae4fdfdfdeae7e7bcbcceaba6afe9e8e9f3eef8c7aeb8a2836569463c684e5a6763809998acfffffff5f2f7b8968f66554258463f666278b3b3c2f7f7f8fffffff7f6f6baa4868871628f7f75c8c3c2dbd5d3fefefeffffffd5d0cc8a7f78958b87bfbab9afa39fc6bebbffffffffffff2d27243734332c2928332e2c3e3e3e3f3f3f3f3f3f3f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.8667526245117188,
+    "upright_verified": true
+  },
+  {
+    "archive": "a79de.zip",
+    "original": "gungan2_f",
+    "resource": "po_gungf02_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "8e91be6375b9494e3c3938d12b565dec808d06df5262e9bb28dba7648c788625",
+    "conversion": {
+      "file": "po_gungf02_l.tga",
+      "source_sha256": "8e91be6375b9494e3c3938d12b565dec808d06df5262e9bb28dba7648c788625",
+      "output": "po_gungf02_l.dds",
+      "output_sha256": "32206fa1ec41b72a7443dabf4a2b0661034244b13c9659d3c54294d526475e03",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 63425,
+      "output_bytes": 16512,
+      "source_rgb_grid": "ffffffffffffe5c4afd8a782d1b6a6d1cbcbcbc5c5eae6e5f6f3f8ddd4e1c09779b58f6b8d684d60392d6e46436f443f7f4f8ea46a4f7c735b84736166554473452f62474b80524ab36c48794b6a746251605240392a2147323274493c484976c2b5cbe1c5aa77593d71624766584932271f6055533e3844f5f0e2cfb67f7d6a5998887c9681727c6759d4d2d1665a593b37312f271b29221c1f191428211b1c16123534341d1a1a000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.726104736328125,
+    "upright_verified": true
+  },
+  {
+    "archive": "a79de.zip",
+    "original": "gungan2_f",
+    "resource": "po_gungf02_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "553d8ad38298fa3f322e54e6e47d308194d8abcc49ad6c68167c4f3201c2ebe8",
+    "conversion": {
+      "file": "po_gungf02_m.tga",
+      "source_sha256": "553d8ad38298fa3f322e54e6e47d308194d8abcc49ad6c68167c4f3201c2ebe8",
+      "output": "po_gungf02_m.dds",
+      "output_sha256": "8607b721392fe3665d2b4b51b0dbe40402b92255e4ea64dde1ff8bc79075f372",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 16493,
+      "output_bytes": 4224,
+      "source_rgb_grid": "ffffffffffffdec7b7d9ac92c08e6dcfb6aafefdfdf9f8f8fffffff9eae0e59963de945acd9c6d9a6c49b18068523d3de6ddf0e0d8d3b49b87a67b5aa283638e725c82553761362a8f515b94603b978a75af967fad9b8481786b844d2c5d3625a1705f6c4f42666c55675b4a5d52465a4a395e4b39995b3a4924607e679d51473b5a5241312b232d21192f22204b3737301b10383431251c11312c1f251e13150e090c080609080d000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.853190104166667,
+    "upright_verified": true
+  },
+  {
+    "archive": "a79de.zip",
+    "original": "gungan2_f",
+    "resource": "po_gungf02_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "56da59195314b39c34a3b75cd671e497042160080fe156e454de264409096380",
+    "conversion": {
+      "file": "po_gungf02_s.tga",
+      "source_sha256": "56da59195314b39c34a3b75cd671e497042160080fe156e454de264409096380",
+      "output": "po_gungf02_s.dds",
+      "output_sha256": "9c7acff08b33f4355f9ceb357d6feee7133261811e98bd46559df107dfde3891",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4299,
+      "output_bytes": 1152,
+      "source_rgb_grid": "fffffffcfbfbcfb19fddc5b9fdfcfcc6a389c4b1a8fffffffffffffefefed39c74c86f34ca783ebd6b339d5129b9876ffdfaf7eeba92dd8345e88f4de4a974d6ad81bf9e76875a3ae7d2c2cda07bb07e55986f4f9b7d5c937655977b62714b31dad5d6ae9e95cbbbb0ae7351ccaf8db5916ea792858764468a5a356c563fb7a99ebbada2bca68ccab59ab2a79a877367341f102220181d181121160f25221c211f1c12110f0f0e0c000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 6.282063802083333,
+    "upright_verified": true
+  },
+  {
+    "archive": "a79de.zip",
+    "original": "gungan2_f",
+    "resource": "po_gungf02_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "ae145073ab82d70cd9d14af577271d0ec27446e65de85892b43e3881f4d4f121",
+    "conversion": {
+      "file": "po_gungf02_t.tga",
+      "source_sha256": "ae145073ab82d70cd9d14af577271d0ec27446e65de85892b43e3881f4d4f121",
+      "output": "po_gungf02_t.dds",
+      "output_sha256": "1ad986a3f4f5f12ce601c5029fb9363e0ada57954b3d5d9b825e7f0972eef5e3",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1157,
+      "output_bytes": 384,
+      "source_rgb_grid": "fffffffefdfde2ccc3d5b8acfcfbfaf7f4f2c9a38ccabab3fffffffefefec7a990b86127ca8356b77146ae6329915130fffffff5e5d9de915eda7b3ceb9e5ae3a369d3915cb67c51edccb5ef9d5fe68d4bda8a50d39768c59f75c3a67eb2946ee2d9cfcab5a19671518b664c9a7857967a598f7253a99380cdc6c5a08d83d0c2b7b7927ec68e63d0b694aa805da4928713110d1c120c38373539373630261d362f27322b22302a25000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 7.59375,
+    "upright_verified": true
+  },
+  {
+    "archive": "b01bb.zip",
+    "original": "gungan8_m",
+    "resource": "po_gungm08_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "05cd32ce1946e3cf19dcd3ddf6d5777e9280cf867a4b0b6544e29213f8484fa1",
+    "conversion": {
+      "file": "po_gungm08_h.tga",
+      "source_sha256": "05cd32ce1946e3cf19dcd3ddf6d5777e9280cf867a4b0b6544e29213f8484fa1",
+      "output": "po_gungm08_h.dds",
+      "output_sha256": "cdc7fb64cc4fbadff4cecd38e6275ea6721b7215bbed62e7f716e12d23bea170",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 166204,
+      "output_bytes": 65664,
+      "source_rgb_grid": "dbb9a6cb967ac29078c2917bd1a087eddcd3fffffffffffff6ece8fefefeb2876aa4694bd5b8a3f0e0d5fffffffffffffdfdfdfffffff6f3efae9b81ada492e1cabbfaf8f7fffffffdfdfdfbfbfac3a384a87f5c70665eac8f74a39886cfcac0fafafad4cec2a09885b8a998aea294c1b5a4b5aa9bdad6cff9f9f9f9f8f7d5cdc1cfc4b1c9bdabbcb0a0b4ab9bebe9e53e3e3e3f3f3f343330302d292e2b272c2a262b29253a3939000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.2812449137369792,
+    "upright_verified": true
+  },
+  {
+    "archive": "b01bb.zip",
+    "original": "gungan8_m",
+    "resource": "po_gungm08_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "163e1b1f537d00bdbcfb950146cb2b66db895df16d428ccf26c9b22aee7892d5",
+    "conversion": {
+      "file": "po_gungm08_l.tga",
+      "source_sha256": "163e1b1f537d00bdbcfb950146cb2b66db895df16d428ccf26c9b22aee7892d5",
+      "output": "po_gungm08_l.dds",
+      "output_sha256": "980925b36162d1429b1f37fc55c431ec4c130a12a465df959ce7c930b2230300",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 48817,
+      "output_bytes": 16512,
+      "source_rgb_grid": "d0a58dc18264cc977fcba190cf9b84e1c1b0fcfaf9ffffffeddcd2f7f2eeae7c5da16a4ac69474e2bfaaefe0d6fffffffefefefefefed6c5b6b3886fb29881fafafafefefefffffffefefeffffffe8d8cdaf8f746a7160ae8262c9a68adbd9d3fefefeefedeab19878b48c6a6b6460a3927e988671aea596f9f8f8c5bdada49c8bb6a998b9ab9bc4b7a6c4baa8b5ab9c3e3e3e3938372f2d2934312c33302b322e2a2f2c282d2b27000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.9771321614583333,
+    "upright_verified": true
+  },
+  {
+    "archive": "b01bb.zip",
+    "original": "gungan8_m",
+    "resource": "po_gungm08_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "9685a5a44f8bae9aac9f9bf476fa071cbc8e1d5baed2253439cfae55263be507",
+    "conversion": {
+      "file": "po_gungm08_m.tga",
+      "source_sha256": "9685a5a44f8bae9aac9f9bf476fa071cbc8e1d5baed2253439cfae55263be507",
+      "output": "po_gungm08_m.dds",
+      "output_sha256": "6052bc09171c431cadf3f40cd672306a49148b7cf011bfd7ce3bd49853376b7f",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 14617,
+      "output_bytes": 4224,
+      "source_rgb_grid": "bd7a58ac562cbe8d7aa86143b56642c58564dbb9a6fefefefcfbfac2a186996144a56a47c39173dbb199daae91f7f1eefefefedbc5b29e7153a86e53ac8767eae2dbfcf8f6fcfbfafffffffefefef3f0edab91769c896cc9c6beede1d8faf6f3ffffffeee6dfcba287a882646773648a6c4faf7d5ac0926cfcfbfac8b49abc9470b587626c645c7f756bac937c907e6438373521211c2d23192b26211f1c1a1f1e1e2a2723282521000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.6811930338541665,
+    "upright_verified": true
+  },
+  {
+    "archive": "b01bb.zip",
+    "original": "gungan8_m",
+    "resource": "po_gungm08_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "f7aa33695d7f6c0aa303e1152192f15cb31e7ff3fd0dc1a015c81359d7fa9176",
+    "conversion": {
+      "file": "po_gungm08_s.tga",
+      "source_sha256": "f7aa33695d7f6c0aa303e1152192f15cb31e7ff3fd0dc1a015c81359d7fa9176",
+      "output": "po_gungm08_s.dds",
+      "output_sha256": "aa04b69b59249ac1f11483f51b933029fd480e1842c46d697783f93835d78a2c",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4146,
+      "output_bytes": 1152,
+      "source_rgb_grid": "ca9a7cb1784f97624780503cac7c58ad643ebe754dc88763f7f3efb78e71985230af6a46955030ad7454d8beace5c8b6fefefed7b598ae744a86553f924d339e6949ab815bcbb7a5ffffffd0c0b3baa18cb79277c59c7eb99678b69b81fbfafafffffffffffffffffff0ebe5b29475b3916f9c8569b9b9affffffffffffffefdfdc6b7a9a09a87727f66697d648577603f3f3f3d3c3b31261d2e1e122c1e141a1c171619171d1811000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.00439453125,
+    "upright_verified": true
+  },
+  {
+    "archive": "b01bb.zip",
+    "original": "gungan8_m",
+    "resource": "po_gungm08_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "ee2bead82f55efd537d9a5d516d42320faaf2a4b1ae61c040f010b9f010966d9",
+    "conversion": {
+      "file": "po_gungm08_t.tga",
+      "source_sha256": "ee2bead82f55efd537d9a5d516d42320faaf2a4b1ae61c040f010b9f010966d9",
+      "output": "po_gungm08_t.dds",
+      "output_sha256": "837c8e27a3bd4904f406d6cf4aa6dbfa1d33aabe2afbd149c63478ca4891c60d",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1212,
+      "output_bytes": 384,
+      "source_rgb_grid": "b66e43ac6035a055307f4b38854329aa6e4aa9633db56842c7ad97bb9a75b7835e8255429c5e3d9a6748a46f4dca987efbf9f7b389709a542f9d522ebe83629c5837aa6138b37d59fefefed5b293bc7a4b9d6c4a7e523d854932956144ac8059fefefeb19074ad85627a5947b2745ab9795fbc8062a88a70fffffff5f2efe5dad0e9ded3bd9f83bc987ab68c6daa8a6b3f3f3f3f3f3f3f3f3f3f3f3f3835312d251d2d251d2c241c000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 8.052734375,
+    "upright_verified": true
+  },
+  {
+    "archive": "b4254.zip",
+    "original": "gungan5_f",
+    "resource": "po_gungf05_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "5209ee99009dd236bfae6ee19a1b7770c2ca97d9249e828b46d156b1a28169ca",
+    "conversion": {
+      "file": "po_gungf05_h.tga",
+      "source_sha256": "5209ee99009dd236bfae6ee19a1b7770c2ca97d9249e828b46d156b1a28169ca",
+      "output": "po_gungf05_h.dds",
+      "output_sha256": "eed673765e6310a1f74bea4932fee704388efbf81eaa76c14fed76f196e28b94",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 296252,
+      "output_bytes": 65664,
+      "source_rgb_grid": "d3d2beccc8b5b4a296b3b1a3bbbaa6b0af9ba2a18d94937fe8e7d3e1dfccaca79e9992888b8479bbbaa6acab979c9b87e5e4d0cbccb494896d7376428e7c5e827e66a7a6919c9b87cecdb9afa69e7b6750c39f91a882786c614c918d7f92917db1ad9ad09d8d8a7e71ccc3b8a49b95574c37b87f6f82806c8a8b719289777964614538324d3f367c7067805e4c7f70491618091e1d181b18170f0c0b0f0e0a16131313120d17140d000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.7259012858072915,
+    "upright_verified": true
+  },
+  {
+    "archive": "b4254.zip",
+    "original": "gungan5_f",
+    "resource": "po_gungf05_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "3bb8492bc7828e0ad11519e623fe3045bf044c21ecf9b8deccf96de16ac3a1ff",
+    "conversion": {
+      "file": "po_gungf05_l.tga",
+      "source_sha256": "3bb8492bc7828e0ad11519e623fe3045bf044c21ecf9b8deccf96de16ac3a1ff",
+      "output": "po_gungf05_l.dds",
+      "output_sha256": "8114b276af0d0904cbbc6010b66cf79c78a7f68cd1569392c6c3a185c9b810f2",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 76269,
+      "output_bytes": 16512,
+      "source_rgb_grid": "deddc9d8d6c3a19089aca9a59b958db4b1a1bbbaa6b1b09cebead6e6e4d2c1bcb1978f82908a80787067bab9a7b6b5a1e9e8d4dad9c8a1a2957d7e416167276f643f87876e94947bd9d8c4b2b39d84715cc99386a97c71ce96888252468a8777cac1b1c0a29a5e593192887ec9c0b3a2968e555538817666ada894d5a192957768a8a39fd3cbbfb9ada16664616c462b2727222d25213b2f2c1c17161a1817120f0e15110c0e0c06000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.7684326171875,
+    "upright_verified": true
+  },
+  {
+    "archive": "b4254.zip",
+    "original": "gungan5_f",
+    "resource": "po_gungf05_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "1a831750b7b3c5c03e2e2899132707c011389e24c02dc1d859156b054f8a6beb",
+    "conversion": {
+      "file": "po_gungf05_m.tga",
+      "source_sha256": "1a831750b7b3c5c03e2e2899132707c011389e24c02dc1d859156b054f8a6beb",
+      "output": "po_gungf05_m.dds",
+      "output_sha256": "aa89c9ae060fac111a809f3556eb31c2c51eb3630d37be99bddb353fc7e32171",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 19430,
+      "output_bytes": 4224,
+      "source_rgb_grid": "dcdbc7bdafa19b8984a7a6a2a6a198b4b0a1bfbeaab6b5a1e9e8d4d2cebfaea9a4aaa2999a938c6c6360ada999bdbca8efeedadddbcab2ada07c7a5290926760583d86817eaeab9ee3e2cda3a78e8581698b884e5d5e317e76458f7b57787757cccbb79999908a6357d49a8cb58072c88c7ec48274775b51baa99e98847c4a4e1d9e9089c9bfb1a79a908075704a4e213a2b2731221e15170b272524353330302e2b1f1e1f121307000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.608357747395833,
+    "upright_verified": true
+  },
+  {
+    "archive": "b4254.zip",
+    "original": "gungan5_f",
+    "resource": "po_gungf05_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "4bdf65d18746cb8cd92726171f9512cc76a39e11bd4f83450b35729fd8d151d0",
+    "conversion": {
+      "file": "po_gungf05_s.tga",
+      "source_sha256": "4bdf65d18746cb8cd92726171f9512cc76a39e11bd4f83450b35729fd8d151d0",
+      "output": "po_gungf05_s.dds",
+      "output_sha256": "3bbd5b6027fdb25addec02c4d90fefbc8e5a29a9ce348265db5bb20aaf526e02",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4924,
+      "output_bytes": 1152,
+      "source_rgb_grid": "d4d3bfd3d2bec5a597b6a294b7b3a5bfbcabc0bfabbab9a5e2e1cdd8d5c3a1978f9f9b9cb8b4ad87807d979087c1c0acecebd7e2e0ceb6b1a9aba4999d948c948f8b6f65609c978beeedd9ecebd7d2d0c1847c687d81476e7338675739817d7ce4e3cfb6b89c888e7198825d898d5963623e8880539e8258d7d6c2a7a69c837b74b27c6fd29384b47b6ec9897bbf7c6e33332e2a29281b1a161b150e25201e312e2b23201e1e1b1a000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.670247395833333,
+    "upright_verified": true
+  },
+  {
+    "archive": "b4254.zip",
+    "original": "gungan5_f",
+    "resource": "po_gungf05_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "504059d025d8025f38935ea9c5287768db74e0dd94d2a15e0cb0f9140fc585ad",
+    "conversion": {
+      "file": "po_gungf05_t.tga",
+      "source_sha256": "504059d025d8025f38935ea9c5287768db74e0dd94d2a15e0cb0f9140fc585ad",
+      "output": "po_gungf05_t.dds",
+      "output_sha256": "19ad60675b7d3f1ed3a70aa5fef041628f0bc804ffac700693ed0a34b6632f89",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1271,
+      "output_bytes": 384,
+      "source_rgb_grid": "d5d4c0cdb5a4c4968ab69688b2a396b7b2a4c3c1b0c4c3afcbc7b69b8a80877b76918785a09d9ea0a1a29d979287817fe4e3cfd3cdbd9f979298989eb9b6b1d6d1c4978c81918c8ae9e8d4c5c0b4b8b4b0c4beb4a89f95867e77bab2a37e7a7cdedccbc1bdb1c1bbb0c7c2b2645c4fa79e96cac1b2938f8dedecd8ebead6dcd9c7877f77696a32777f3a858c4b6a762b3a3a353837321f1e1e1b1c1d1f1a1119190a141107141406000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.725911458333333,
+    "upright_verified": true
+  },
+  {
+    "archive": "d577d.zip",
+    "original": "gungan5_m",
+    "resource": "po_gungm05_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "886c6e32b4612b4b75b366f4d36deb7c131c94d1706c728253b70a4478011225",
+    "conversion": {
+      "file": "po_gungm05_h.tga",
+      "source_sha256": "886c6e32b4612b4b75b366f4d36deb7c131c94d1706c728253b70a4478011225",
+      "output": "po_gungm05_h.dds",
+      "output_sha256": "ad00d42c85b8b1390224efb528508d957d9abdb0fa7acdbbfa2cd4f681bc035c",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 100903,
+      "output_bytes": 65664,
+      "source_rgb_grid": "fffffff5f7f8f2f3f59885929c9397fcfcfcffffffffffffffffffebf0f4aab3c866656c4f53607d8086fcfcfcffffffffffffffffffcfcec9767062706956838077ebeae8fffffffffffffffffff8f8f87870598e7e5eb6b1a9fffffffffffffffffffffffff4f4f3817e725c5848bab8b4fffffffffffffffffffffffffcfcfca7a4a6444242d9d8d9ffffffffffff3f3f3f3f3f3f3f3f3f2c2b2c2523252a292a3f3f3f3f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.0046056111653645,
+    "upright_verified": true
+  },
+  {
+    "archive": "d577d.zip",
+    "original": "gungan5_m",
+    "resource": "po_gungm05_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "9db05a397ae5ebdc0e5dd45dc4d096e925c32131792414ce41be1aeb1f5d2010",
+    "conversion": {
+      "file": "po_gungm05_l.tga",
+      "source_sha256": "9db05a397ae5ebdc0e5dd45dc4d096e925c32131792414ce41be1aeb1f5d2010",
+      "output": "po_gungm05_l.dds",
+      "output_sha256": "6e0f1dbad1fbb46e6e79c5f271833803174c8a581977f0886b0800c7d0f2c95e",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 47002,
+      "output_bytes": 16512,
+      "source_rgb_grid": "ffffffffffffcfc7cc977f9180747cd9d7d8ffffffffffffafc6d6cbe5f8bab2b67e6f7379656f797477f2f1f1ffffffeef1f39ca1bb8c7c865a616f5058663e4b60505764d4d4d4ffffffc3beb94c4a435e5e595d5d5a504e483f3c347e7a6efffffffcfcfcd5d2cc7c7156978969736a53b2afa8fefefeffffffffffffb2afa880765b9c8863887456aaa49bffffff3f3f3f3f3f3f2626231e1c161e1c151b1a142726243f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.1055501302083335,
+    "upright_verified": true
+  },
+  {
+    "archive": "d577d.zip",
+    "original": "gungan5_m",
+    "resource": "po_gungm05_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "5e58568ad0439522b3160bee7629f635ac2a0347151e3e37070244c1717f78c0",
+    "conversion": {
+      "file": "po_gungm05_m.tga",
+      "source_sha256": "5e58568ad0439522b3160bee7629f635ac2a0347151e3e37070244c1717f78c0",
+      "output": "po_gungm05_m.dds",
+      "output_sha256": "8b9a841963f9bc6f2b072508a6bb6dddc35b1ef34f25d46fa20b32f8b6e1fcc6",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 13694,
+      "output_bytes": 4224,
+      "source_rgb_grid": "ffffffffffffffffffcac3c6a89ca09b8d96c7c5c4fefefef4f5f6f4f5f5fafafaa3959f8f768a765b736b6162bdb9bbacbecb7ebae3cee7f8bfb9b96b625f947e8551494b67676dfefefecfd6df8a7493776771515b6d606b7f3c475b425066fffffffefefe7c726d3f413e545657535a65545960434443ffffffffffffc4c0b8a29e95756a51796d5581765b5d56453f3f3f3f3f3f3f3f3f3332301d1b1427231b2320191d1b15000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.0888671875,
+    "upright_verified": true
+  },
+  {
+    "archive": "d577d.zip",
+    "original": "gungan5_m",
+    "resource": "po_gungm05_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "f78c1270e24e7aeec2ab62f64179f6196cda25a0654274e7349d9b2c5efde210",
+    "conversion": {
+      "file": "po_gungm05_s.tga",
+      "source_sha256": "f78c1270e24e7aeec2ab62f64179f6196cda25a0654274e7349d9b2c5efde210",
+      "output": "po_gungm05_s.dds",
+      "output_sha256": "06db3000d9b7005f7769d96c9c477e02ac64f65ded0284c2df97646a9e9e8be6",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4005,
+      "output_bytes": 1152,
+      "source_rgb_grid": "ffffffefeceff8f6f8d1cacce5e4e4fcfbfbffffffffffffffffffb9b3b3866f7c85697f61495e5d575ac3c2c0ffffffefeeef998b94937d8c8a718472587079706e695e64eae8eaf4fafdb6afb392858376686c95788a64505c6e6868938c8bbcc9d7c3b9bd4b49477c757378716f46484a323b4b333e4f8a62836956633d4553586a85556883414c604250664c5d781f1b1e0e0e0e0f0f0e1013181415161a1b1c1419200c0e11000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.868001302083333,
+    "upright_verified": true
+  },
+  {
+    "archive": "d577d.zip",
+    "original": "gungan5_m",
+    "resource": "po_gungm05_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "37d2fd677619315caad4bfde63d85611dcfbddd2690613763e54efc3781dee80",
+    "conversion": {
+      "file": "po_gungm05_t.tga",
+      "source_sha256": "37d2fd677619315caad4bfde63d85611dcfbddd2690613763e54efc3781dee80",
+      "output": "po_gungm05_t.dds",
+      "output_sha256": "243bdd73c44d00b94a0a7d5474324e31ead350dc657d8041e55e08d84402abc0",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1234,
+      "output_bytes": 384,
+      "source_rgb_grid": "ffffffc5bbc2bfacbbdcd8d88c81828d7381b4b2abc0beb8ffffffaaa8a57c6a6e7d6b6e7e6874886388554055453e42fbfafbb8afb5aa8fa6a486a59c7b9c906990785277483b4da399a391848b87777f8a768086737e87757e735e726c6063ded8deb5aeb47d717186737a7e6f748b757f876e7f8a6584ffffffcecaca968b877c746e4742409c8c8fa58e9673536b3f3f3f33313123212005050412110f2d2b29211e1d16140f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 6.468098958333333,
+    "upright_verified": true
+  },
+  {
+    "archive": "e2b63.zip",
+    "original": "gungan4_f",
+    "resource": "po_gungf04_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "3de542f7fb6588c769e3299b1cbcea269108bb2e8df5ef00d76bb5c4ced5e476",
+    "conversion": {
+      "file": "po_gungf04_h.tga",
+      "source_sha256": "3de542f7fb6588c769e3299b1cbcea269108bb2e8df5ef00d76bb5c4ced5e476",
+      "output": "po_gungf04_h.dds",
+      "output_sha256": "4a31928f02d67002c167486b9056417f36530407f8dd5edcd3df326fb9ed7876",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 134404,
+      "output_bytes": 65664,
+      "source_rgb_grid": "c0c4adc0c4adbec1a9ae8860a88671b6b7adc0c3adc0c3adc0c4adc0c4adc5b897ceac779c7554b1ad98c0c3acc0c4adbfc3acc0c4ada4a89f81828b898a99707593b7a88cc0c4adbfc3acc0c4ad83898e9b9aa293949e686e8bb89d79c0c4adc0c4adc0c3ac8c90948a8ba28a8d9e767283beb89cc0c4adc0c4adbfc3ac9a98919e8e899296b06d729ba0a499c0c4ad30312b30312b2526271c1d261c1d271b1c2722232430312b000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.3373947143554688,
+    "upright_verified": true
+  },
+  {
+    "archive": "e2b63.zip",
+    "original": "gungan4_f",
+    "resource": "po_gungf04_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "26b1a650f3242918a8804486ac78a1319d4ec1ff7e9ed190d31e14986670f72a",
+    "conversion": {
+      "file": "po_gungf04_l.tga",
+      "source_sha256": "26b1a650f3242918a8804486ac78a1319d4ec1ff7e9ed190d31e14986670f72a",
+      "output": "po_gungf04_l.dds",
+      "output_sha256": "4b6840f4b1ed23bb3ba97254129cf1ca0c310905ece5b644b763c1d48c27883c",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 50146,
+      "output_bytes": 16512,
+      "source_rgb_grid": "c0c4adc0c4adb2ad91a47b54a3866fb1b0afbcbfaac0c3adc0c3acc5b492c9965bc28850a77d5f9f9ca2bec2acc0c4adbfc4acc1bda3c1bea2d4a362a670488e7f70bbbca5c0c3adc0c4adb5b9a7848a975653547272817077957c7585bcb398c0c3ac8c9394a5a8b5b2b3bdcbcad3707997747890bd9268bfc3ac797f8877798292909784848c6a708b6d6d84ba956930312b27272528282a2c2c2f1f20211e1f22271f1831291e000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.2830708821614585,
+    "upright_verified": true
+  },
+  {
+    "archive": "e2b63.zip",
+    "original": "gungan4_f",
+    "resource": "po_gungf04_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "e7c192c5bfa51d1223919d7d7ac3e9bfe37990f2c28c97835960235374e9d590",
+    "conversion": {
+      "file": "po_gungf04_m.tga",
+      "source_sha256": "e7c192c5bfa51d1223919d7d7ac3e9bfe37990f2c28c97835960235374e9d590",
+      "output": "po_gungf04_m.dds",
+      "output_sha256": "12e41dae054a4b3e5c03c0174553e5ac24c45e5e77414b7cf94291290c92b5c5",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 14631,
+      "output_bytes": 4224,
+      "source_rgb_grid": "c0c4adc0c4adb1ae919f8263936e46afa99fb5b6a9c0c3adc0c4adbcbca4b08c65b8713db56e3da78276a79ebbb1b3a6c2bb9fd19d65d9a866cb9e61c396608971629a998cc0c4adc0c4adc0c3acc0c3acd6aa6ec98a4a8d684e8c7967b7b69fc0c4adafb2a4858c966e676264554b7373877176917c7385c0c3ad7b828aa9abb65f6474a0a2afa4a6b76d78996a759b30302b191b202d2d303333353333353130331a1c241a1c25000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 3.308349609375,
+    "upright_verified": true
+  },
+  {
+    "archive": "e2b63.zip",
+    "original": "gungan4_f",
+    "resource": "po_gungf04_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "d1cd905d70464677b76a534e4c357ec737e669b0910d30ca6406a7eb6ff29117",
+    "conversion": {
+      "file": "po_gungf04_s.tga",
+      "source_sha256": "d1cd905d70464677b76a534e4c357ec737e669b0910d30ca6406a7eb6ff29117",
+      "output": "po_gungf04_s.dds",
+      "output_sha256": "13c060adaa0f811d22394aefe75c7d7a15a83407049a3eb442590a4ff0ecac6c",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 3931,
+      "output_bytes": 1152,
+      "source_rgb_grid": "c0c4adc0c4adbfc2ac927c55a692748e6c47b2b2a7babdaac0c4adc0c4adb7b39aac774fb36a39ae693aa68583a69cbdc1bca0cbaf86cb9354d39a53d19855c18c5993817c97939bc0c2a9c4a881c9ae83c1a97fc99b60c58d547f634c8a8678c0c4adc0c4adc0c3adb7ae95e2af62b9733e8865517e675ec0c4adb4b8a77a818e6b728458514d4f4c557379956d769530312b262726171a1f191b1f0c0e131b1c221a1c241b1d25000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.843912760416667,
+    "upright_verified": true
+  },
+  {
+    "archive": "e2b63.zip",
+    "original": "gungan4_f",
+    "resource": "po_gungf04_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "9f5bb22d857eb3b0ea0f9f00120de7f013555103916bfe746ccf07358e1f7c57",
+    "conversion": {
+      "file": "po_gungf04_t.tga",
+      "source_sha256": "9f5bb22d857eb3b0ea0f9f00120de7f013555103916bfe746ccf07358e1f7c57",
+      "output": "po_gungf04_t.dds",
+      "output_sha256": "96d99fd0cc84b67be333ec085ce94477a1d49684b3d7768ac9b4c1f6f042ef90",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1104,
+      "output_bytes": 384,
+      "source_rgb_grid": "c0c4adc0c4adbfc3ac9a8a619d9178a08e63907a5ebabda8c0c4adc0c4adbfc3aca28a6cae643aa5683ca76638a794a4c0c4adbcbca4ae8961ba7b41be783fbb7040c078439b7e7bc7ac85d59e64e0a761e1aa5fcd9f61bd9562b692677a6b6abebea5c5b18dc2b593beb89cd09a5ddfaa5ec37e46756554c0c4adc0c4adc0c4adbdbea8d8aa6ad09952b3683a86645030312b30312b30312b2526262f271b31241326180e191a1e000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.725911458333333,
+    "upright_verified": true
+  },
+  {
+    "archive": "fcf71.zip",
+    "original": "gungan1_f",
+    "resource": "po_gungf01_h",
+    "dimensions": [
+      256,
+      512
+    ],
+    "source_sha256": "4ed9e6010162c39da4379dab3c8baf4d8750fa035adceb1410a869d124a6d855",
+    "conversion": {
+      "file": "po_gungf01_h.tga",
+      "source_sha256": "4ed9e6010162c39da4379dab3c8baf4d8750fa035adceb1410a869d124a6d855",
+      "output": "po_gungf01_h.dds",
+      "output_sha256": "ec0bd3835e9e9c7add653dd33cec7d8eb28aab21748038bf6207d649e510d929",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "source_bytes": 85803,
+      "output_bytes": 65664,
+      "source_rgb_grid": "ffffffffffffffffffeadbd4ca8e69faf6f3fffffffffffffffffffffffff2e3dac69f88b7a58ec4b1a9fefefefffffffffffffffffffaf2ecb8a297c0ab9fa28c81f2ece9ffffffffffffffffffffffffd3c3c0c79e8db49a92fafafaffffffffffffffffffffffffddd3d0875c4bd1bdb5ffffffffffffffffffffffffffffffbcaba67c5442f2edecffffffffffff3f3f3f3f3f3f3f3f3f3f3f3f342e2b3936343f3f3f3f3f3f000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 1.1973190307617188,
+    "upright_verified": true
+  },
+  {
+    "archive": "fcf71.zip",
+    "original": "gungan1_f",
+    "resource": "po_gungf01_l",
+    "dimensions": [
+      128,
+      256
+    ],
+    "source_sha256": "3b126fc2cda6a58edf6a060707862064a135790f1ecc3965f0484856030cd9bf",
+    "conversion": {
+      "file": "po_gungf01_l.tga",
+      "source_sha256": "3b126fc2cda6a58edf6a060707862064a135790f1ecc3965f0484856030cd9bf",
+      "output": "po_gungf01_l.dds",
+      "output_sha256": "a4df9cb49dff83ae9b7b47886836ad616d003b0c6e1de28f90d8ab068c8b2f41",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "source_bytes": 44704,
+      "output_bytes": 16512,
+      "source_rgb_grid": "fffffffffffffefefed9a589e4a278f2e3dbffffffffffffffffffffffffe1c8bca78269b17d59d6b8a3fdfcfbffffffffffffe7d3c9c7906cbb9a84baa376c9c0bac5aea4fffffff2dcd1ca8a5bc5b1a59d8478a18f87a89890ac8671f3e7e1fffffff3edec998880b78671d6c8bec0b1aa876e5fded1ccfffffffcfcfcc1bbb9d0b8abc7beb8dcd5d1a9a19ff8f8f83f3f3f3c3c3c211d1d321c132e252232302f2d2c2b3c3c3c000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 2.636688232421875,
+    "upright_verified": true
+  },
+  {
+    "archive": "fcf71.zip",
+    "original": "gungan1_f",
+    "resource": "po_gungf01_m",
+    "dimensions": [
+      64,
+      128
+    ],
+    "source_sha256": "f5bc76495c68d5194f1e7ed7f3f804dbcd323f6cee1f0c4b2d9d8b3ee2cf043b",
+    "conversion": {
+      "file": "po_gungf01_m.tga",
+      "source_sha256": "f5bc76495c68d5194f1e7ed7f3f804dbcd323f6cee1f0c4b2d9d8b3ee2cf043b",
+      "output": "po_gungf01_m.dds",
+      "output_sha256": "97dbfba98517238d89b4ac6db2657655a6decaacc297a6c1d20a30d55fa62322",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "source_bytes": 14491,
+      "output_bytes": 4224,
+      "source_rgb_grid": "fffffffefefedaab91dfad96d69f7ef2e9e5ffffffffffffffffffdcb5a3c1805ce6975ee78846eccbb9fffffffffffff6ede9a8745aa3826da27b62a6714ed3a88bfefdfdffffffd9a990cc834dcbb099b5986bae926ab9afa7c2a293e8d6cebb89689f7863ab968ebfaa7fc2b291d0c8c4b4acaab59c92ece7e4b89783a9999190807acac1b9c5bcb69f9490bc896d362e2a3c3b3a1c130f1e1410221c1a24201e1b1715302620000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 4.357828776041667,
+    "upright_verified": true
+  },
+  {
+    "archive": "fcf71.zip",
+    "original": "gungan1_f",
+    "resource": "po_gungf01_s",
+    "dimensions": [
+      32,
+      64
+    ],
+    "source_sha256": "2cb1af5cb79defa9cacd349822c33cadb66bbcfe62c4dc5b12b27748bbd30529",
+    "conversion": {
+      "file": "po_gungf01_s.tga",
+      "source_sha256": "2cb1af5cb79defa9cacd349822c33cadb66bbcfe62c4dc5b12b27748bbd30529",
+      "output": "po_gungf01_s.dds",
+      "output_sha256": "a0d6529fe1e06d8d785a78bc3c2eaf180d1bf8debfd7b82e01a7d9c2a48f7629",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "source_bytes": 4285,
+      "output_bytes": 1152,
+      "source_rgb_grid": "ffffffebcab9cfa38bf2e2dde6cbc0d19b7aeadedafffffff9e8dfcd794fba6336e37e40e98645c17443f6efeaffffffb96e4cba8568e29d6ee99f69ec8742e28748deb199ffffff8b604d906b59b69784ae7f62cc895aed8f4ce29359f0d7c9ae886fa37e62b58d6ba17e677f5f4e7b5e47af998cfefefec28353c3af9fc0ac8cb69768ac8c60a789589c9188bfb3ae392412342922393631272114261e15342e29343231363433000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 5.882649739583333,
+    "upright_verified": true
+  },
+  {
+    "archive": "fcf71.zip",
+    "original": "gungan1_f",
+    "resource": "po_gungf01_t",
+    "dimensions": [
+      16,
+      32
+    ],
+    "source_sha256": "2bb5038c700c0db900382a0904714d18326859356428f336882c5f87453c2c03",
+    "conversion": {
+      "file": "po_gungf01_t.tga",
+      "source_sha256": "2bb5038c700c0db900382a0904714d18326859356428f336882c5f87453c2c03",
+      "output": "po_gungf01_t.dds",
+      "output_sha256": "2962a8571994b754b57954020b903980e14be3149b53bd6b9324d4b45093cd92",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "source_bytes": 1171,
+      "output_bytes": 384,
+      "source_rgb_grid": "f7ebe5ecc3abeee0dbfdfcfbf5e5dce0b195eddfdaffffffd8a18ab36534b6603adc723ad27743ae683be9e0d9ffffffbe6d47d57848df8c58ee9d5aed8943df874beac7b2ffffff916c5acea788dea075e9955beb8742e68a48d48455fcf8f697715eae9386a07e6a94725db6815edc8a52d4935fdfaf93a78268aa8b67b27e5a9f7f697a5a4a73573e9a8071f9f8f827231f31291b2c2418302720281f192a22141c1814211d1d000000000000000000000000000000000000000000000000"
+    },
+    "mean_pixel_error": 7.711588541666667,
+    "upright_verified": true
+  }
+]
