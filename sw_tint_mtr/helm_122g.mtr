@@ -1,0 +1,5 @@
+# Pixel-clipped Cloth1 and Leather1 player-colorable glow overlay
+customshadervs vslit
+customshaderfs dglowov
+texture5 null
+texture6 helm_122i

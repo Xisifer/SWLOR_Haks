@@ -1,9 +1,9 @@
 customshaderVS vslit_sm
 renderhint NormalTangents
-customshaderFS fs_plt_tinter
+customshaderFS cu_27f274420a181
 texture0 plt_white
-texture7 tm_8e51cc3935a45
-texture10 plt_palette
+texture7 tm_5eda7eca62b7f
+texture10 cu_pal1024
 parameter float tintMapWidth 256.0
 parameter float tintMapHeight 256.0
 parameter float rowSkin 0.000244
