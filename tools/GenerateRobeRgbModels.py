@@ -299,7 +299,7 @@ def check() -> list[str]:
     if not manifest.get("independent_skeletons") or not manifest.get("body_pose_samples"):
         errors.append("Robe models lack independent skeleton and animation pose validation")
     if not manifest.get("garment_body_motion_checks"):
-        errors.append("Robe models lack garment/body motion and root reset validation")
+        errors.append("Robe models lack validation that garment wearer joints are bound to body bones")
     for relative, expected in manifest["files"].items():
         path = ROOT / relative
         if not path.is_file() or file_digest(path) != expected:
@@ -848,8 +848,9 @@ def main():
                 parent_data = (reference_bodies[parent] if parent in reference_bodies else
                                parent_path.read_bytes() if parent_path.is_file() else dependencies[parent])
                 animations.validate_body_parts(compiled, reference_bodies[name[:3] + "0"], parent_data)
-                poses.validate_body_skeleton(compiled, reference_bodies[name[:3] + "0"])
-                poses.validate_garment_bindings(dependencies[original_robes[name]], compiled, renamed_nodes[name])
+                poses.validate_body_skeleton(compiled, reference_bodies[name[:3] + "0"], ignore_garment=True)
+                poses.validate_garment_bindings(dependencies[original_robes[name]], compiled, renamed_nodes[name],
+                                                families.member_binds[original_robes[name]])
         except ValueError as error:
             failures.append({"model": name, "error": str(error)})
     def load_binary(name):
